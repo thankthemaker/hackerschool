@@ -1,2 +1,2 @@
-# hackerschool
-Examples from Hackeschool
+# Hackerschool
+Examples from Hackerschool
