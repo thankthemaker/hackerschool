@@ -6,10 +6,9 @@ Schließe einen Lautsprecher an Deinen Micro:Bit an. Verbinde dazu, wie in dem B
 
 ![Wiring](./wiring.png "Wiring")
 
-
 Verwende den __beim Start__ Block um beim Einschalten oder Zurücksetzen des Micro:Bit die Melodie __Dadadum__ abzuspielen.
 
-Erstelle zusätzlich eine Endlosschleife (Block __dauerhaft__) in dem Du abwechselnd für __einen Takt__ die Note  __Mittleres C__ abspielst und __einen Takt__ lang eine __Pause__ einlegst.
+Erstelle zusätzlich eine Endlosschleife (Block __dauerhaft__) in der Du abwechselnd für __einen Takt__ die Note  __Mittleres C__ abspielst und __einen Takt__ lang eine __Pause__ einlegst.
 
 ##### Blocks
 
