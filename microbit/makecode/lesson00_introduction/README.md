@@ -40,7 +40,7 @@ Der Einplatinencomputer beinhaltet bereits einige Anschlüsse und Sensoren, um d
 
 Der MakeCode Editor ermöglicht die visuelle Programmierung des Micro:Bit über grafische Blöcke. Die einzelnen Blöcke können kontextabhängig inneinander verschachtelt werden um einen Programmablaufplan zu erstellen. 
 
-![MakeCode Editor](./makecode_editor.png "MakeCode Editor")
+![MakeCode Editor](../makecode_editor.png "MakeCode Editor")
 
 Der MakeCode Editor enthält eine Vorschau die es ermöglicht die meisten Änderungen direkt in einem virtuellen Micro:Bit nachverfolgen zu können. 
 
