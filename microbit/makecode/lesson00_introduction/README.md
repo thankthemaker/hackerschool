@@ -1,4 +1,5 @@
-# Lektion 0
+# Lektion 0 - Einleitung
+
 ## Einführung in Micro:Bit den MakeCode Editor
 
 ### Micro:Bit
@@ -7,22 +8,37 @@ Der BBC micro:bit ist ein Einplatinencomputer auf der Basis eines ARM-Mikrocontr
 
 Mehr Informationen findest Du auf 
 [Wikipedia](https://de.wikipedia.org/wiki/BBC_micro:bit)
-oder der [Microbit Website](https://microbit.org)
+oder der [Microbit Website](https://microbit.org).
 
 Der Einplatinencomputer beinhaltet bereits einige Anschlüsse und Sensoren, um direkt und ohne weiteres Zubehör mit der Entwicklung und dem Experimentieren zu beginnen.
 
 #### Hardwareüberblick
 
-
 ![Microbit Vorderseite](./microbit_front.png "Microbit Vorderseite")
-
 
 ![Microbit Rückseite](./microbit_back.png "Microbit Rückseite")
 
+Über folgende integrierte Hardware und Sensoren verfügt der Mico:Bit.
+
+##### Prozessormodul nRF51
+
+##### Bluetoothmodul
+
+##### Funkmodul (2,4 GHz)
+
+##### 2 Buttons (Knöpfe)
+
+##### LED-Display (5x5 Pixel)
+
+##### Bewegungssensor
+
+##### CPU-Temperatursensor (integriert in nRF51)
+
+##### Ein- und Ausgabekontakte (GPIO)
 
 ### MakeCode Editor
 
-Der MakeCode Editor ermöglicht die visuelle Programmierung des Micro:Bit über grafische Blöcke. Die einzelnen Blöcke können kontextabhängig inneineander Verschachtelt werden um einen Programmablaufplan zu erstellen. 
+Der MakeCode Editor ermöglicht die visuelle Programmierung des Micro:Bit über grafische Blöcke. Die einzelnen Blöcke können kontextabhängig inneinander verschachtelt werden um einen Programmablaufplan zu erstellen. 
 
 ![MakeCode Editor](./makecode_editor.png "MakeCode Editor")
 
