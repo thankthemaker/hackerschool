@@ -2,6 +2,8 @@
 
 Beispiele aus einer [Hackerschool Veranstaltung](https://www.hacker-school.de) zum Thema __Let's Code with Micro:Bit__. 
 
+__[Besuch die zugehörigen Github Pages](https://thankthemaker.github.io/hackerschool)__
+
 ## [Micro:Bit](microbit/README.md)
 Die Beispiele zielen teilweise auf den Einstieg in die Entwicklung mit der visuellen Entwicklungsumgebung [MakeCode](https://www.microsoft.com/en-us/makecode "MakeCode") und zum Anderen auf die Entwicklung mit [Micropython](http://micropython.org "Micropython").
 
