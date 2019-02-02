@@ -1,6 +1,5 @@
 #theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
-search_enabled: true
 
 title: ThankTheMaker's Hackerschool
 description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
@@ -16,6 +15,3 @@ search_enabled: true
 aux_links:
   "More about ThankTheMaker":
     - "//www.thank-the-maker.org"
-
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
