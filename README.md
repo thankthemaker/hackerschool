@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Hackerschool
-nav_order: 3
+nav_order: 1
 has_children: true
 permalink: /hackerschool
 ---
+
 # Hackerschool
 
 Beispiele aus einer Hackerschool Veranstaltung https://www.hacker-school.de
