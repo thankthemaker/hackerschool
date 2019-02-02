@@ -1,10 +1,3 @@
----
-layout: default
-title: Hackerschool
-nav_order: 1
-has_children: true
----
-
 # Hackerschool
 
 Beispiele aus einer Hackerschool Veranstaltung https://www.hacker-school.de
