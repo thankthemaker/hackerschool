@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
-title: ThankTheMaker's HackerAschool
+title: ThankTheMaker's Hackerschool
 description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
 baseurl: "/hackerschool/" # the subpath of your site, e.g. /blog
 
