@@ -1,3 +1,11 @@
+---
+layout: default
+title: Microbit
+nav_order: 2
+has_children: true
+permalink: /hackerschool/microbit
+---
+
 # Micro:Bit
 
 ## MakeCode Beispiele
