@@ -1,3 +1,21 @@
 #theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+
+title: ThankTheMaker's HackerAschool
+description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
+baseurl: "/hackerschool/" # the subpath of your site, e.g. /blog
+
+permalink: pretty
+#exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "More about ThankTheMaker":
+    - "//www.thank-the-maker.org"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
