@@ -1,7 +1,7 @@
 ---
 title: NodeMCU
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # NodeMCU auf ESP8266-Basis

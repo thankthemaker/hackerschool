@@ -1,4 +1,4 @@
-# Hackerschool
+# Home
 
 Beispiele aus einer [Hackerschool Veranstaltung](https://www.hacker-school.de) zum Thema __Let's Code with Micro:Bit__. 
 
