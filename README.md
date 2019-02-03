@@ -1,9 +1,3 @@
----
-layout: default
-title: Hackerschool
-nav_order: 1
----
-
 # Hackerschool
 
 Beispiele aus einer [Hackerschool Veranstaltung](https://www.hacker-school.de) zum Thema __Let's Code with Micro:Bit__. 

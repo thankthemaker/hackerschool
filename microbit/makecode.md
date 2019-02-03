@@ -1,7 +1,5 @@
 ---
-layout: default
-title: MakeCode
-parent: Hackerschool
+title: Microbit MakeCode
 nav_order: 2
 ---
 
