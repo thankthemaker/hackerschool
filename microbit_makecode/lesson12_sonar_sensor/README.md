@@ -1,12 +1,12 @@
 ---
-title: Lektion 11 - Sonarsensor
+title: Lektion 12 - Sonarsensor
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-nav_order: 7
+nav_order: 13
 ---
 
-# Lektion 11
+# Lektion 12
 
 ## Sonar Sensor 
 

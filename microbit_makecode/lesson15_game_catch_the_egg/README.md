@@ -3,7 +3,7 @@ title: Lektion 15 - Spiel
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-#nav_order: 6
+nav_order: 16
 ---
 
 # Lektion 15

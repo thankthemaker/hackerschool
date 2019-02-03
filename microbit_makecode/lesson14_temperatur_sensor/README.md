@@ -3,7 +3,7 @@ title: Lektion 14 - Temperatursensor
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-#nav_order: 6
+nav_order: 15
 ---
 
 # Lektion 14

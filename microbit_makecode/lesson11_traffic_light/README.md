@@ -3,7 +3,7 @@ title: Lektion 11 - Verkehrsampel
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-nav_order: 7
+nav_order: 12
 ---
 
 # Lektion 12

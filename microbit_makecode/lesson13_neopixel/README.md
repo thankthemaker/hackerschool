@@ -3,7 +3,7 @@ title: Lektion 13 - Neopixel
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-#nav_order: 6
+nav_order: 14
 ---
 
 # Lektion 13

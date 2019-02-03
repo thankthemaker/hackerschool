@@ -3,7 +3,7 @@ title: Lektion 10 - Lautsprecher
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-nav_order: 6
+nav_order: 7
 ---
 
 # Lektion 10
