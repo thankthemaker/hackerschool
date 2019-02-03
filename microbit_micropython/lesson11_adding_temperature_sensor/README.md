@@ -3,6 +3,7 @@ title: Lektion 11  - Temperatursensor
 parent: Microbit Micropython
 has_children: true
 nav_order: 3
+permalink: /microbit_makecode/lesson11_adding_temperature_sensor/
 ---
 
 # Lektion 11
