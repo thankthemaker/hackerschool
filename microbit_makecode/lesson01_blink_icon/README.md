@@ -16,4 +16,4 @@ Zwischen dem Anzeigen und Löschen soll jeweils eine Sekunde Pause eingehalten w
 
 #### Blocks
 
-![Screenshot](./screenshot.png "Screenshot")
+![Screenshot](screenshot.png "Screenshot")
