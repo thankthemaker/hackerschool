@@ -3,7 +3,7 @@ title: Microbit MakeCode
 parent: Microbit
 has_children: true
 nav_order: 2
-permalink: /microbit_makecode/
+permalink: /microbit/makecode/
 ---
 
 # MakeCode
