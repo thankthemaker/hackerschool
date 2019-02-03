@@ -1,5 +1,6 @@
 #theme: jekyll-theme-cayman
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 
 title: ThankTheMaker at Hackerschool
 description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
