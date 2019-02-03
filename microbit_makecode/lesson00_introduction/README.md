@@ -1,3 +1,10 @@
+---
+title: Einleitung
+parent: Microbit MakeCode
+has_children: true
+nav_order: 1
+---
+
 # Einleitung
 
 ## Einführung in Micro:Bit und den MakeCode Editor

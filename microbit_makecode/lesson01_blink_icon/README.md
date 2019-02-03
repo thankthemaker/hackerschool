@@ -1,3 +1,10 @@
+---
+title: Lektion 1 - Blinkendes Icon
+parent: Microbit MakeCode
+has_children: true
+nav_order: 2
+---
+
 # Lektion 1
 ## Blinkendes Icon
 
