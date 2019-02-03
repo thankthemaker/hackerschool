@@ -1,3 +1,10 @@
+---
+title: Lektion 14 - Temperatursensor
+parent: Microbit MakeCode
+has_children: true
+#nav_order: 6
+---
+
 # Lektion 14
 
 ## Temperatursensor DHT11 oder DHT22 und OLED

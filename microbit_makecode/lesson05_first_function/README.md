@@ -1,3 +1,10 @@
+---
+title: Lektion 5 - Funktionen
+parent: Microbit MakeCode
+has_children: true
+nav_order: 6
+---
+
 # Lektion 5
 
 ## Funktionen (Functions)

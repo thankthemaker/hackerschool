@@ -1,3 +1,10 @@
+---
+title: Lektion 10 - Lautsprecher
+parent: Microbit MakeCode
+has_children: true
+nav_order: 6
+---
+
 # Lektion 10
 
 ## Lautsprecher anschließen 

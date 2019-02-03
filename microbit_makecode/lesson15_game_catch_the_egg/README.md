@@ -1,3 +1,10 @@
+---
+title: Lektion 15 - Spiel
+parent: Microbit MakeCode
+has_children: true
+#nav_order: 6
+---
+
 # Lektion 15
 
 ## Spiel - Catch The Egg

@@ -1,3 +1,10 @@
+---
+title: Lektion 4 - Variablen
+parent: Microbit MakeCode
+has_children: true
+nav_order: 5
+---
+
 # Lektion 4
 
 ## Variablen (variables)

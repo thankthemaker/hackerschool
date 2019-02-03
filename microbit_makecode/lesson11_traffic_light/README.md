@@ -1,3 +1,10 @@
+---
+title: Lektion 11 - Verkehrsampel
+parent: Microbit MakeCode
+has_children: true
+nav_order: 7
+---
+
 # Lektion 12
 
 ## Verkehrsampel

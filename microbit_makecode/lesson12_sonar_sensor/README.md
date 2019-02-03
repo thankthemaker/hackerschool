@@ -1,3 +1,10 @@
+---
+title: Lektion 11 - Sonarsensor
+parent: Microbit MakeCode
+has_children: true
+nav_order: 7
+---
+
 # Lektion 11
 
 ## Sonar Sensor 

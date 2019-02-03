@@ -1,3 +1,10 @@
+---
+title: Lektion 3 - Schleifen
+parent: Microbit MakeCode
+has_children: true
+nav_order: 4
+---
+
 # Lektion 3
 
 ## Schleifen (loops)

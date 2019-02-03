@@ -1,3 +1,10 @@
+---
+title: Lektion 2  - Buttons
+parent: Microbit MakeCode
+has_children: true
+nav_order: 3
+---
+
 # Lektion 2
 
 ## Buttons (Knöpfe)
