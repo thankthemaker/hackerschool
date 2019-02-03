@@ -1,3 +1,11 @@
+---
+layout: default
+title: Hackerschool
+nav_order: 2
+has_children: true
+permalink: /hackerschool/microbit
+---
+
 # Hackerschool
 
 Beispiele aus einer [Hackerschool Veranstaltung](https://www.hacker-school.de) zum Thema __Let's Code with Micro:Bit__. 

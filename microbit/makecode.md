@@ -1,3 +1,10 @@
+---
+layout: default
+title: MakeCode
+parent: Hackerschool
+nav_order: 2
+---
+
 # MakeCode
 
 Bein MakeCode handelt es sich um einen Browser-basierter online Code-Editor von Microsoft, mit dem für unterschiedliche Plattformen entwickelt werden kann. MakeCode unterstützt gleichermaßen die Entwicklung mit visuellen Elementen, sogenannten Blocks, als auch die Entwicklung mit JavaScript.
