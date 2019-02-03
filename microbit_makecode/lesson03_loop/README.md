@@ -1,7 +1,8 @@
 ---
 title: Lektion 3 - Schleifen
 parent: Microbit MakeCode
-has_children: true
+grand_parent: Microbit
+has_children: false
 nav_order: 4
 ---
 

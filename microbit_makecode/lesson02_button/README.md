@@ -1,7 +1,8 @@
 ---
 title: Lektion 2  - Buttons
 parent: Microbit MakeCode
-has_children: true
+grand_parent: Microbit
+has_children: false
 nav_order: 3
 ---
 

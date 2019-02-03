@@ -1,7 +1,8 @@
 ---
 title: Lektion 11 - Sonarsensor
 parent: Microbit MakeCode
-has_children: true
+grand_parent: Microbit
+has_children: false
 nav_order: 7
 ---
 
