@@ -2,17 +2,17 @@
 #remote_theme: pmarsceill/just-the-docs
 remote_theme: aksakalli/jekyll-doc-theme
 
-title: ThankTheMaker at Hackerschool
-description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
-baseurl: "/hackerschool/" # the subpath of your site, e.g. /blog
+#title: ThankTheMaker at Hackerschool
+#description:  Beispiele aus einer Hackerschool Veranstaltung zum Thema Let's Code with Micro:Bit.
+#baseurl: "/hackerschool/" # the subpath of your site, e.g. /blog
 
-permalink: pretty
+#permalink: pretty
 #exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Enable or disable the site search
-search_enabled: true
+#search_enabled: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "More about ThankTheMaker":
-    - "//www.thank-the-maker.org"
+#aux_links:
+#  "More about ThankTheMaker":
+#    - "//www.thank-the-maker.org"
