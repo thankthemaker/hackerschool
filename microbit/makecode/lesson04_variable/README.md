@@ -7,9 +7,9 @@ nav_order: 5
 permalink: /microbit/makecode/lesson04_variable/
 ---
 
-# Lektion 4
+# Lektion 4 - Variablen (variables)
 
-## Variablen (variables)
+## Anleitung 
 
 Definiere eine Variable mit dem Namen _counter_. Setze den Anfangswert der Variablen _counter_ auf 0.
 
@@ -17,6 +17,6 @@ Erstelle eine Schleife mit 10 Durchgängen und erhöhe die Variable _counter_ in
 
 Stelle nach Beendigung der 10 Schleifendurchgänge den Wert der Variablen _counter_ auf dem LED-Bildschirm dar.
 
-##### Blocks
+## Blocks
 
 ![Screenshot](./screenshot.png "Screenshot")

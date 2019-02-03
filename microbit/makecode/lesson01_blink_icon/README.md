@@ -7,14 +7,13 @@ nav_order: 2
 permalink: /microbit/makecode/lesson01_blink_icon/
 ---
 
-# Lektion 1
-## Blinkendes Icon
+# Lektion 1 - Blinkendes Icon
 
-#### Coding
+## Anleitung
 
 Nutze eine Endlosschleife um abwechselnd ein Icon anzuzeigen und den LED-Bildschirm zu löschen. 
 Zwischen dem Anzeigen und Löschen soll jeweils eine Sekunde Pause eingehalten werden.
 
-#### Blocks
+## Blocks
 
 ![Screenshot](./screenshot.png "Screenshot")
