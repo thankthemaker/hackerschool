@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Hackerschool
-nav_order: 2
-has_children: true
-permalink: /microbit
+nav_order: 1
 ---
 
 # Hackerschool
