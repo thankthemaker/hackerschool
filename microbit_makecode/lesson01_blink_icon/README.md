@@ -17,4 +17,4 @@ Zwischen dem Anzeigen und Löschen soll jeweils eine Sekunde Pause eingehalten w
 
 #### Blocks
 
-![Screenshot]({{ site.url }}/screenshot.png "Screenshot")
+![Screenshot](./screenshot.png "Screenshot")
