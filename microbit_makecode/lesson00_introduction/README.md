@@ -1,6 +1,6 @@
-# Lektion 0 - Einleitung
+# Einleitung
 
-## Einführung in Micro:Bit den MakeCode Editor
+## Einführung in Micro:Bit und den MakeCode Editor
 
 ### Micro:Bit
 
