@@ -4,7 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 15
-permalink: /microbit_makecode/lesson14_temperature_sensor/
+permalink: /microbit/makecode/lesson14_temperature_sensor/
 ---
 
 # Lektion 14

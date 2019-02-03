@@ -4,7 +4,7 @@ parent: NodeMCU mit Arduino
 grand_parent: NodeMCU
 has_children: false
 nav_order: 1
-permalink: /nodemcu_arduino/lesson10_iot_temperature/
+permalink: /nodemcu/arduino/lesson10_iot_temperature/
 ---
 
 # IoT Temperaturmessung
