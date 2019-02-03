@@ -43,6 +43,10 @@ In [Lektion 3](makecode/lesson03_loop/README.md) verschaffst Du Dir einen ersten
 
 [Lektion 13](makecode/lesson13_neopixel/README.md)
 
+### Lektion 14 - Temperatursensor DHT11 oder DHT22
+
+[Lektion 14](makecode/lesson14_temperature_Sensor/README.md)
+
 ### Lektion 15 - Spiel _Catch the Egg_
 
 [Lektion 15](makecode/lesson15_game_catch_the_egg/README.md)
