@@ -1,3 +1,9 @@
+---
+title: NodeMCU
+has_children: true
+nav_order: 4
+---
+
 # NodeMCU auf ESP8266-Basis
 
 NodeMCU ist ein Open Source Einplatinencomputer auf Basis des Espressif ESP8266 Microcontroller. Ursprünglich gedacht ist das Board für die Entwicklung mit __LUA__, im Auslieferungszustand kommt es mit der entsprechenden Open-Source Firmware. Das Board wird aber auch von Arduino und Micropython  unterstützt.

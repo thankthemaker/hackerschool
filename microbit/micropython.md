@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Micropython
-parent: Hackerschool
-nav_order: 2
+title: Microbit Micropython
+has_children: true
+nav_order: 3
 ---
