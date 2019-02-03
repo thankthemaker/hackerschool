@@ -4,6 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 13
+permalink: /microbit_makecode/lesson12_sonar_sensor/
 ---
 
 # Lektion 12

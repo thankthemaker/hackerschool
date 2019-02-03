@@ -4,6 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 16
+permalink: /microbit_makecode/lesson15_game_catch_the_egg/
 ---
 
 # Lektion 15

@@ -4,6 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 12
+permalink: /microbit_makecode/lesson11_traffic_light/
 ---
 
 # Lektion 12

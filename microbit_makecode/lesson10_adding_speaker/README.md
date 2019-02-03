@@ -4,6 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 7
+permalink: /microbit_makecode/lesson10_adding_speaker/
 ---
 
 # Lektion 10

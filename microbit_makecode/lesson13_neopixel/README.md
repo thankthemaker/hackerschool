@@ -4,6 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 14
+permalink: /microbit_makecode/lesson13_neopixel/
 ---
 
 # Lektion 13

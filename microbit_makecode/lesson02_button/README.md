@@ -4,7 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 3
-permalink: /microbit_makecode/lesson02
+permalink: /microbit_makecode/lesson02_button/
 ---
 
 # Lektion 2
