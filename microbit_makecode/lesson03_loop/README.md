@@ -4,7 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 4
-permalink: /hackerschool/microbit_makecode/lesson03
+permalink: /microbit_makecode/lesson03
 ---
 
 # Lektion 3
