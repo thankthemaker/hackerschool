@@ -9,7 +9,9 @@ permalink: /microbit/makecode/lesson13_neopixel/
 
 # Lektion 13 - Neopixel 
 
-In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen, die rot, grün und blau leuchten können. Diese sind unter dem Namen Neopixel bekannt. 
+In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten können. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
+
+Ziel der Lektion ist es ein eizelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer Regenbogenfarbe anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
 
 ## MakeCode-Erweiterung
 
@@ -35,5 +37,7 @@ Verwende zusätzlich den Block __zeige Regenbogen von Farbton__, der dafür sorg
 Erstelle zusätzlich eine Endlosschleife (Block __dauerhaft__) in der Du die Pixel um jeweils 1 rotierst, die Anzeige aktuallisierst und dann eine Pause von 500 ms machst.
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

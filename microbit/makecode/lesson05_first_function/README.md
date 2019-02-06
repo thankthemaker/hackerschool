@@ -7,7 +7,11 @@ nav_order: 6
 permalink: /microbit/makecode/lesson05_first_function/
 ---
 
-# Lektion 5 - Funktionen (Functions)
+# Lektion 5 - Funktionen (functions)
+
+Oft möchte man in einem Programm an verschiedenen Stellen dieselben Blöcke ausführen. Damit man diese nicht mehrfach hinzufügen muss, können diese Schritte in eine Funktion ausgelagert  und von verschiedenen Stellen aus aufgerufen werden.
+
+In dieser Lektion wollen wir einen Countdown in einer Funktion implementieren, die wir dann beim Druck auf einen Knopf aufrufen.
 
 ## Anleitung
 
@@ -20,5 +24,7 @@ Innerhalb einer Schleife wird die Variable _counter_ pro Schleifendurchlauf um d
 In jedem Schleifendurchlauf wird der aktuelle Wert der Variablen _counter_ auf dem Bildschirm dargestellt.
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

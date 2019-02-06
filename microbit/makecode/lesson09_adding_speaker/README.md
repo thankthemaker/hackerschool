@@ -1,13 +1,17 @@
 ---
-title: Lektion 10 - Lautsprecher
+title: Lektion 9 - Lautsprecher
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
-nav_order: 7
-permalink: /microbit/makecode/lesson10_adding_speaker/
+nav_order: 10
+permalink: /microbit/makecode/lesson09_adding_speaker/
 ---
 
-# Lektion 10 - Lautsprecher anschließen 
+# Lektion 9 - Lautsprecher anschließen 
+
+Dein Micro:Bit verfügt über die Möglichkeit Töne und Melodien abzuspielen. Die entsprechenden Blöcke findest Du unter dem Punkt __Musik__. Leider besitz der Micro:Bit selbst aber keinen Lautsprecher, über den die Töne ausgegeben werden können.
+
+In dieser Lektion wollen wir deshalb einen zusätzlichen Lautsprecher an der Kontaktleiste des Micro:Bit anschließen und über diesen Töne und Melodien ausgeben.
 
 ## Anschlüsse
 
@@ -22,5 +26,7 @@ Verwende den __beim Start__ Block um beim Einschalten oder Zurücksetzen des Mic
 Erstelle zusätzlich eine Endlosschleife (Block __dauerhaft__) in der Du abwechselnd für __einen Takt__ die Note  __Mittleres C__ abspielst und __einen Takt__ lang eine __Pause__ einlegst.
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

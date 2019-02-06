@@ -15,4 +15,6 @@ Erstelle eine Schleife mit 10 Durchläufen. In jedem Durchlauf soll erst das Ico
 
 ## Blocks
 
+So könnte Dein Programm aussehen.
+
 ![Screenshot](./screenshot.png "Screenshot")

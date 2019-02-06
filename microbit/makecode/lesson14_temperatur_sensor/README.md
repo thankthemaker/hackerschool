@@ -41,8 +41,10 @@ Schließe  den Temperatursensor DHT11 oder DHT22 und das OLED wie in folgendem B
 
 ## Anleitung
 
-ToDo
+___ToDo___
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

@@ -11,6 +11,8 @@ permalink: /microbit/makecode/lesson12_sonar_sensor/
 
 Ein Sonar-Sensor misst die Entfernung des Sensors zu einem anderen Objekt, z.B. einer Wand. Dafür wird ein unhörbarer Sonar-Ton gesendet und die Zeit gemessen, bis dieser Ton wieder vom Sensor empfangen wird.
 
+In dieser Lektion wollen wir die Entfernung zwischen einem Entfernungssenor und einem beliebigen Objekt (z.B. Wand oder Hand) messen und den Abstand als Balkendiagramm auf dem 5x5 LED-Matrix-Display des Micro:Bit anzeigen.
+
 ## MakeCode-Erweiterung
 
 Um einen Sonar-Sensor verwenden zu können, musst Du zunächst Deinen Makecode Editor um die __Sonar__ Bibliothek erweitern.
@@ -30,5 +32,7 @@ Schließe jetzt einen Sonar-Sensor wie im folgenden Bild an die Anschlüsse __GN
 Verwende eine Endlosschleife (Block __dauerhaft__) in der Du permanent mit dem Sonar-Block über die Anschlüsse __P1__ und __P2__ den Sonar-Ton sendest und empfängst. Zeige die Distanz auf in jedem Schleifendurchlauf auf dem LED-Display Deines Micro:Bit als __plot bar__ (Balkengrafik) an.
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

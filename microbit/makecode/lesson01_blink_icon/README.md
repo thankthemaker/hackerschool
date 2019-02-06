@@ -9,11 +9,15 @@ permalink: /microbit/makecode/lesson01_blink_icon/
 
 # Lektion 1 - Blinkendes Icon
 
+Auf dem 5x5 LED-Matix-Display Deines Micro:Bit soll ein blinkendes Herz angezeigt werden. Dazu werde abwechselnd zwei unterschiedliche Icon angezeigt.
+
 ## Anleitung
 
 Nutze eine Endlosschleife um abwechselnd ein Icon anzuzeigen und den LED-Bildschirm zu löschen. 
-Zwischen dem Anzeigen und Löschen soll jeweils eine Sekunde Pause eingehalten werden.
+Zwischen dem Anzeigen und Löschen soll jeweils eine kurze Pause eingehalten werden.
 
 ## Blocks
+
+So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")

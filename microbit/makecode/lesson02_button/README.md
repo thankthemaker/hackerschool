@@ -22,4 +22,6 @@ Bei Druck auf den Button __B__ der Bildschirm wieder gelöscht
 
 ## Blocks
 
+So könnte Dein Programm aussehen.
+
 ![Screenshot](./screenshot.png "Screenshot")
