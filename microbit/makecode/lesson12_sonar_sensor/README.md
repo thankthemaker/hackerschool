@@ -23,7 +23,7 @@ Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und such
 
 ## Anschlüsse
 
-Schließe jetzt einen Sonar-Sensor wie im folgenden Bild an die Anschlüsse __GND__, __3V__, __1__ und __2__ an.
+Schließe jetzt einen Sonar-Sensor wie im folgenden Bild an die Anschlüsse __GND__, __1__ und __2__ an. Leider benötigen die meisten Ultraschallsensoren eine Spannung von 5V, die 3,3V des Micro:Bit reichen daher nicht aus. Verwende daher eine Batteriebox oder eine andere 5V-Spannungsversorgung.
 
 ![Wiring](./wiring.png "Wiring")
 
