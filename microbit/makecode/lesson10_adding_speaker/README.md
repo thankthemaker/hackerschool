@@ -32,7 +32,7 @@ Erstelle zusätzlich eine Endlosschleife (Block `dauerhaft`) in der Du abwechsel
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="350px"/>
 
 ## Javascript-Code
 
