@@ -15,15 +15,15 @@ Erstelle nun eine elektronische Variante von dem bekannten Spiel _"Stein, Papier
 
 #### Zahl 1 - Stein 
 
-<img src="./stone.png" width="150px"/>
+<img src="./stone.png" width="100px"/>
 
 #### Zahl 2 - Papier 
 
-<img src="./paper.png" width="150px"/>
+<img src="./paper.png" width="100px"/>
 
 #### Zahl 3 - Schere 
 
- <img src="./scissors.png" width="150px"/>
+ <img src="./scissors.png" width="100px"/>
 
 ## Anleitung
 
@@ -51,7 +51,7 @@ ___Let's play ... ___
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="450px"/>
 
 ## Javascript-Code
 
