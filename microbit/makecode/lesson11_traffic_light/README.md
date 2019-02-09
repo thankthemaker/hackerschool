@@ -16,7 +16,7 @@ In dieser Lektion wollen wir eine Verkehrsampel simulieren. Dafür benötigst Du
 
 Die Verkehrsampel soll die Farben wechseln und dazwischen jeweils Pausen einhalten. In Deutschland folgt eine Ampel dabei folgenden vier Phasen.
 
-![Ampelphasen](./traffic_lights_4_states.png "Ampelphasen")
+<img src="./traffic_lights_4_states.png" width="150px"/>
 
 Für diese Lektion wählen wir die Länge der Pausen zwischen den Wechseln der einzelnen Phasen mit 2 Sekunden und 5 Sekunden.
 Die Phasen 1 und 3 sollen 5 Sekunden dauern.
@@ -26,7 +26,7 @@ Die Phasen 2 und 4 sollen 2 Sekunden dauern.
 
 Die drei LEDs und die Widerstände schließt Du, wie in dem Bild dargestellt, mit Krokodilklemmen an die drei Anschlüsse `1`, `2` und `3` an. Zwischen den Kontakt am __Micro:Bit__ und der LED muss jeweils einer der Widerstände zwischengeschaltet werden.
 
-![Verkehrsampel](./wiring.png "Verkehrsampel")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
@@ -36,7 +36,7 @@ Erstelle mit den Blöcken `pausiere` aus dem `Grundlagen`-Block und dem Block `s
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

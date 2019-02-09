@@ -17,9 +17,9 @@ MakeCode Erweiterung
 
 In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten kann. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
 
-![Neopixel Stick](./neopixel_stick.jpg "Neopixel Stick")
+<img src="./neopixel_stick.png" width="150px"/>
 
-![Neopixel Stick](./neopixel_single.jpg "Neopixel Stick")
+<img src="./neopixel_single.png" width="150px"/>
 
 Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
 
@@ -29,7 +29,7 @@ Um Neopixel verwenden zu können, musst Du zunächst Deinen Makecode Editor um d
 
 Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und suche anschließend nach der `Adafruit Neopixel` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
 
-![Neopixel](./neopixel.png "Neopixel")
+<img src="./neopixel.png" width="150px"/>
 
 Über diesen neuen Block kannst Du nun Neopixel-LEDs steuern.
 
@@ -37,7 +37,7 @@ Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und such
 
 Schließe nun eine Neopixel-LED mit drei Krokodilklemmen an Deinen __Micro:Bit__ an. Dabei ist es egal, ob es sich um einen Neopixel-Stick oder eine einzelne Neopixel-LED handelt, die Anschlussart ist gleich.
 
-![Neopixel PINs](./neopixel_single_pins.jpg "Neopixel PINS")
+<img src="./neopixel_single_pins.png" width="150px"/>
 
 Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlossen werden.
 
@@ -47,7 +47,7 @@ Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlo
 |VDD | 3V | Spannungsversorgung (3V-7V)|
 |GND | GND | Masseleitung|
 
-![Wiring](./wiring.png "Wiring")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
@@ -60,7 +60,7 @@ Erstelle zusätzlich eine Endlosschleife (Block `dauerhaft`) in der Du die Pixel
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

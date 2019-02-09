@@ -25,13 +25,13 @@ Um einen Sonar-Sensor verwenden zu können, musst Du zunächst Deinen Makecode E
 
 Wähle dazu unter dem Block `Fortgeschritten` den Punkt `Erweiterungen` und suche anschließend nach der `Sonar` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
 
-![Sonar](./sonar.png "Sonar")
+<img src="./sonar.png" width="150px"/>
 
 ## Anschlüsse
 
 Schließe jetzt einen Sonar-Sensor wie im folgenden Bild an die Anschlüsse `GND`, `1` und `2` an. Leider benötigen die meisten Ultraschallsensoren eine Spannung von 5V, die 3,3V des Micro:Bit reichen daher nicht aus. Verwende daher eine Batteriebox oder eine andere 5V-Spannungsversorgung.
 
-![Wiring](./wiring.png "Wiring")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
@@ -41,7 +41,7 @@ Verwende eine Endlosschleife (Block `dauerhaft`) in der Du permanent mit dem Son
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

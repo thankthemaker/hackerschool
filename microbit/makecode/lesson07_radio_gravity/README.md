@@ -17,7 +17,7 @@ In dieser Lektion wollen wir zusätzlich
 
 ___ToDo___
 
-![Wiring](./wiring.png "Wiring")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
@@ -27,7 +27,7 @@ ___ToDo___
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

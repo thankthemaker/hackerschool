@@ -23,7 +23,7 @@ Um den Sensor mit dem __Micro:Bit__ auslesen zu könnnen, musst Du die `Environm
 
 Wähle  unter dem Block `Fortgeschritten` den Punkt `Erweiterungen` und suche anschließend nach der `Environment-IoT` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du folgende weiterer Blöcke.
 
-![Environment-IoT](./environment-iot.png "Environment-IoT")
+<img src="./environment-iot.png" width="150px"/>
 
 ## Hardware (Sensoren)
 
@@ -67,7 +67,7 @@ Es sollte nun alle __2__ Sekunden die aktuelle Temperatur und Luftfeuchtigkeit a
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

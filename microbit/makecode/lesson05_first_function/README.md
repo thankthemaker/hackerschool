@@ -27,7 +27,7 @@ In jedem Schleifendurchlauf wird der aktuelle Wert der Variablen `counter` auf d
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

@@ -15,16 +15,16 @@ Erstelle nun eine elektronische Variante von dem bekannten Spiel _"Stein, Papier
 
 #### Zahl 1 - Stein 
 
-![Stein](./stone.png "Stein")
+<img src="./stone.png" width="150px"/>
 
 #### Zahl 2 - Papier 
 
-![Papier](./paper.png "Papier")
+<img src="./paper.png" width="150px"/>
 
 #### Zahl 3 - Schere 
 
-![Schere](./scissors.png "Schere")
- 
+ <img src="./scissors.png" width="150px"/>
+
 ## Anleitung
 
 Wähle zunächst aus dem `Eingabe`-Block de Block `wenn geschüttelt` und lösche innerhalb dieses Blocks zunächst das LED-Matrix Display. 
@@ -33,7 +33,7 @@ Definiere nun eine  Variable `waffe` und ändere den Wert der Variable auf einen
 
 Jetzt brauchst Du aus dem `Logik`-Block einen `wenn...dann`-Block den Du über das kleine Pluszeichen um zwei weitere `sonst...wenn`-Bedingungen erweiterst. Dieser sollte dann so aussehen:
 
-![Bedingungen](./if_elsif_elsif.png "Bedingungen")
+<img src="./if_elsif_elsif.png" width="250px"/>
 
 In den drei Bedingungen musst Du nun über den Vergleich-`Logik`-Block den Wert der Variablen `waffe` einzeln mit den Werten __1__, __2__ und __3__ vergleichen. 
 
@@ -51,7 +51,7 @@ ___Let's play ... ___
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

@@ -20,7 +20,7 @@ In dieser Lektion wollen wir deshalb einen zusätzlichen Lautsprecher an der Kon
 
 Schließe einen Lautsprecher an Deinen __Micro:Bit__ an. Verbinde dazu, wie in dem Bild dargestellt, den Anschluß `0` und `GND` jeweils mit einer Krokodilklemme mit dem ersten und dem letzten Kontakt des Klinkensteckers Deines Lautsprechers.
 
-![Wiring](./wiring.png "Wiring")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
@@ -32,7 +32,7 @@ Erstelle zusätzlich eine Endlosschleife (Block `dauerhaft`) in der Du abwechsel
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

@@ -24,7 +24,7 @@ Bei Druck auf den Button `B` der Bildschirm wieder gelöscht
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 

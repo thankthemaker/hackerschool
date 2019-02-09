@@ -17,7 +17,7 @@ Erstelle eine Schleife mit 10 Durchläufen. In jedem Durchlauf soll erst das Ico
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 
