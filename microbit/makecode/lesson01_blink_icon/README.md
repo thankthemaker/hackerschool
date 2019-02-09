@@ -20,7 +20,7 @@ Zwischen dem Anzeigen und Löschen soll jeweils eine kurze Pause eingehalten wer
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot")
+<img src="./screenshot.png" width="250px"/>
 
 ## Javascript-Code
 
