@@ -8,7 +8,9 @@ permalink: /microbit/makecode/lesson10_adding_speaker/
 ---
 
 # Lektion 10 - Lautsprecher anschließen 
-Hardware{: .label .label-green }
+
+Hardware
+{: .label .label-green }
 
 Dein __Micro:Bit__ verfügt über die Möglichkeit Töne und Melodien abzuspielen. Die entsprechenden Blöcke findest Du unter dem Punkt `Musik`. Leider besitz der Micro:Bit selbst aber keinen Lautsprecher, über den die Töne ausgegeben werden können.
 
