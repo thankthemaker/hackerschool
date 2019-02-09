@@ -47,7 +47,7 @@ Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlo
 |VDD | 3V | Spannungsversorgung (3V-7V)|
 |GND | GND | Masseleitung|
 
-<img src="./wiring.png" width="250px"/>
+<img src="./wiring.png" width="450px"/>
 
 ## Anleitung
 
@@ -60,7 +60,7 @@ Erstelle zusätzlich eine Endlosschleife (Block `dauerhaft`) in der Du die Pixel
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="450px"/>
 
 ## Javascript-Code
 
