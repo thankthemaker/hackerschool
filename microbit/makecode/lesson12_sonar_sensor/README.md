@@ -9,6 +9,12 @@ permalink: /microbit/makecode/lesson12_sonar_sensor/
 
 # Lektion 12 - Sonar Sensor 
 
+Hardware
+{: .label .label-green }
+
+MakeCode Erweiterung
+{: .label .label-yellow }
+
 Ein Sonar-Sensor misst die Entfernung des Sensors zu einem anderen Objekt, z.B. einer Wand. Dafür wird ein unhörbarer Sonar-Ton gesendet und die Zeit gemessen, bis dieser Ton wieder vom Sensor empfangen wird.
 
 In dieser Lektion wollen wir die Entfernung zwischen einem Entfernungssenor und einem beliebigen Objekt (z.B. Wand oder Hand) messen und den Abstand als Balkendiagramm auf dem 5x5 LED-Matrix-Display des Micro:Bit anzeigen.
