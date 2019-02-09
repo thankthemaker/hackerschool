@@ -21,13 +21,13 @@ Die Phasen 2 und 4 sollen 2 Sekunden dauern.
 
 ## Anschlüsse 
 
-Die drei LEDs und die Widerstände schließt Du, wie in dem Bild dargestellt, mit Krokodilklemmen an die drei Anschlüsse __1__, __2__ und __3__ an. Zwischen den Kontakt am __Micro:Bit__ und der LED muss jeweils einer der Widerstände zwischengeschaltet werden.
+Die drei LEDs und die Widerstände schließt Du, wie in dem Bild dargestellt, mit Krokodilklemmen an die drei Anschlüsse `1`, `2` und `3` an. Zwischen den Kontakt am __Micro:Bit__ und der LED muss jeweils einer der Widerstände zwischengeschaltet werden.
 
 ![Verkehrsampel](./wiring.png "Verkehrsampel")
 
 ## Anleitung
 
-Erstelle mit den Blöcken _pausiere_ aus dem _Grundlagen_-Block und dem Block _schreibe digitalen Wert_ aus dem _Pins_-Block die vier Phasen einer Ampelschaltung.
+Erstelle mit den Blöcken `pausiere` aus dem `Grundlagen`-Block und dem Block `schreibe digitalen Wert` aus dem `Pins`-Block die vier Phasen einer Ampelschaltung.
 
 ## Blocks
 
@@ -49,9 +49,9 @@ Möchtest Du Deine Verkehrsampel noch besser machen? Dann füge einen Countdown 
 
 Erstelle zunächst zwei Funktionen:
 
-1. Erstelle die Funktion _countdown_ und führe zunächst eine Variable _counter_ ein, die Du auf den Wert 5 setzt. Füge nun eine Schleife mit 5 Schleifendurchläufen hinzu. In jedem Schleifendurchlauf (jeder Iteration) soll zunächst der aktuelle Wert der Variablen _counter auf dem LED-Matix-Display des __Micro:Bit__ angezeigt und dann eine Pasue von 1 Sekunde eingehalten werden. Anschließend wird die Variable um den Wert 1 verringert (dekrementiert). 
+1. Erstelle die Funktion `countdown` und führe zunächst eine Variable `counter` ein, die Du auf den Wert __5__ setzt. Füge nun eine Schleife mit __5__ Schleifendurchläufen hinzu. In jedem Schleifendurchlauf (jeder _Iteration_) soll zunächst der aktuelle Wert der Variablen _counter auf dem LED-Matix-Display des __Micro:Bit__ angezeigt und dann eine Pasue von __1__ Sekunde eingehalten werden. Anschließend wird die Variable um den Wert __1__ verringert (_dekrementiert_). 
 
-2. Erstelle die Funktion _stop_, in der Du einen schrägen Strich auf dem LED-Matrix-Display anzeigst und dann eine Pause von 2 Sekunden einhälst.
+2. Erstelle die Funktion `stop`, in der Du einen schrägen Strich auf dem LED-Matrix-Display anzeigst und dann eine Pause von __2__ Sekunden einhälst.
 
 Ersetze nun die Pausen Deines bisherigen Programms durch Aufrufe der beiden Funktionen.
 

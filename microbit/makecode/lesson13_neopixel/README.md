@@ -21,7 +21,7 @@ Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren 
 
 Um Neopixel verwenden zu können, musst Du zunächst Deinen Makecode Editor um die Neopixel Bibliothek erweitern.
 
-Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und suche anschließend nach der __Adafruit Neopixel__ Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
+Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und suche anschließend nach der `Adafruit Neopixel` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
 
 ![Neopixel](./neopixel.png "Neopixel")
 
@@ -45,10 +45,10 @@ Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlo
 
 ## Anleitung
 
-Verwende den _beim Start_ Block um beim Einschalten oder Zurücksetzen des __Micro:Bit__ die Neopixel Bibliothek zu initialisieren, d.h. festzulegen, wieviele Pixel (Anzahl LED) Dein Neopixel hat, an welchem Anschluss Du diesen per Krokodilklemme angeklemmt hast und welche Farben die einzelnen LEDs verwenden können.
-Verwende zusätzlich den Block _zeige Regenbogen von Farbton_, der dafür sorgt dass die einzelnen Pixel mit unterschiedlichen Farben belegt werden. Damit die Anzeige aktuallisiert wird, benötigst Du zusätzlich den _anzeigen_ Block. 
+Verwende den `beim Start` Block um beim Einschalten oder Zurücksetzen des __Micro:Bit__ die Neopixel Bibliothek zu initialisieren, d.h. festzulegen, wieviele Pixel (Anzahl LED) Dein Neopixel hat, an welchem Anschluss Du diesen per Krokodilklemme angeklemmt hast und welche Farben die einzelnen LEDs verwenden können.
+Verwende zusätzlich den Block `zeige Regenbogen von Farbton`, der dafür sorgt dass die einzelnen Pixel mit unterschiedlichen Farben belegt werden. Damit die Anzeige aktuallisiert wird, benötigst Du zusätzlich den `anzeigen` Block. 
 
-Erstelle zusätzlich eine Endlosschleife (Block _dauerhaft_) in der Du die Pixel um jeweils 1 rotierst, die Anzeige aktuallisierst und dann eine Pause von 500 ms machst.
+Erstelle zusätzlich eine Endlosschleife (Block `dauerhaft`) in der Du die Pixel um jeweils __1__ rotierst, die Anzeige aktuallisierst und dann eine Pause von __500 ms__ machst.
 
 ## Blocks
 
