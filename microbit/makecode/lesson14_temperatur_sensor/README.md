@@ -31,19 +31,19 @@ Wähle  unter dem Block `Fortgeschritten` den Punkt `Erweiterungen` und suche an
 
 Der hier verwendete Temperatursensor DHT11 verfügt lediglich über drei Anschlüsse und enthält bereits einen Pull-Up-Widerstand. Es gibt auch Modelle, die mit vier Anschlüssen und ohne Widerstand geliefert werden, dort bleibt dann ein PIN unbelegt und es muss zusätzlich ein Widerstand vorgeschaltet werden.
 
-![DHT11](./dht11_pinout.jpg "DHT11")
+<img src="./dht11_pinout.jpg" width="250px"/>
 
 ### OLED 64x128 I2C 0,96'' Monochrome Display
 
 Das hier verwendete Display hat eine Größe von 0,96 Zoll, dies entspricht etwa 2,4 cm in der Diagonale. Das OLED kann 64x128 Bildpunkte (Pixel) in einer Farbe (monochrome) darstellen. Angeschlossen wird es über den I2C-Bus, eine Verbindungsart bei der bis zu 127 Geräte gleichzeitig über lediglich zwei Leitungen (SCL und SDA) gesteuert werden können.
 
-![OLED](./oled.png "OLED")
+<img src="./oled.png" width="250px"/>
 
 ## Anschlüsse
 
 Schließe  den Temperatursensor DHT11 oder DHT22 und das OLED wie in folgendem Bild dargestellt an Deinen __Micro:Bit__ an. 
 
-![Wiring](./wiring.png "Wiring")
+<img src="./wiring.png" width="250px"/>
 
 ## Anleitung
 
