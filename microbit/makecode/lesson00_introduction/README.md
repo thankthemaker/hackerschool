@@ -77,7 +77,7 @@ Im MakeCode Editor gibt es verschiedene Blöcke.
 
 ##### Grundlagen (hell blau)
 
-![Screenshot](./basic.png "Screenshot")
+<img src="./basic.png" width="100px"/>
 
 Unter diesem Punkt finden sich einige grundlegende Blöcke, z.B. die Hauptschleife oder der Zugriff auf das LED-Display.
 
