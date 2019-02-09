@@ -9,6 +9,12 @@ permalink: /microbit/makecode/lesson14_temperatur_sensor/
 
 # Lektion 14 - Temperatursensor DHT11 oder DHT22 und OLED
 
+Hardware
+{: .label .label-green }
+
+MakeCode Erweiterung
+{: .label .label-yellow }
+
 In den vorherigen Lektionen hast Du bereits erfahren, wie Du den MakeCode-Editor für __Micro:Bit__ mit `Erweiterungen` um noch mehr sinnvolle Funktionen erweitern kannst. In dieser Lektion ließt Du die Temperatur und Luftfeuchtigkeit von einem externen Temperatur- und Feuchtigkeitsensor (DHT11 oder  DHT22) aus und stellst diese auf einem kleinen OLED dar.
 
 ## MakeCode-Erweiterung

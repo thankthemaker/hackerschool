@@ -9,4 +9,7 @@ permalink: /microbit/makecode/lesson17_remote_disc_shooter/
 
 # Lektion 17 - Ferngesteuerter Disc-Shooter
 
+Hardware
+{: .label .label-green }
+
 ___ToDo___

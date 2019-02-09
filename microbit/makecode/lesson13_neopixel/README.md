@@ -9,6 +9,12 @@ permalink: /microbit/makecode/lesson13_neopixel/
 
 # Lektion 13 - Neopixel 
 
+Hardware
+{: .label .label-green }
+
+MakeCode Erweiterung
+{: .label .label-yellow }
+
 In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten kann. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
 
 ![Neopixel Stick](./neopixel_stick.jpg "Neopixel Stick")
