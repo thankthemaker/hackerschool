@@ -51,7 +51,7 @@ ___Let's play ... ___
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="450px"/>
+<img src="./screenshot.png" width="550px"/>
 
 ## Javascript-Code
 
