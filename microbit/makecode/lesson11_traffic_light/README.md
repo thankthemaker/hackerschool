@@ -62,7 +62,7 @@ Ersetze nun die Pausen Deines bisherigen Programms durch Aufrufe der beiden Funk
 
 So könnte die erweiterte Variante Deines Programms aussehen.
 
-<img src="./screenshot_advanced.png" width="450px"/>
+<img src="./screenshot_advanced.png" width="550px"/>
 
 ## Javascript-Code
 
