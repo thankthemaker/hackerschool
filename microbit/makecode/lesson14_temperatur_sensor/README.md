@@ -43,7 +43,7 @@ Das hier verwendete Display hat eine Größe von 0,96 Zoll, dies entspricht etwa
 
 Schließe  den Temperatursensor DHT11 oder DHT22 und das OLED wie in folgendem Bild dargestellt an Deinen __Micro:Bit__ an. 
 
-<img src="./wiring.png" width="250px"/>
+<img src="./wiring.png" width="450px"/>
 
 ## Anleitung
 
@@ -67,7 +67,7 @@ Es sollte nun alle __2__ Sekunden die aktuelle Temperatur und Luftfeuchtigkeit a
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="450px"/>
 
 ## Javascript-Code
 
