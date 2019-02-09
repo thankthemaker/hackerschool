@@ -23,7 +23,7 @@ Stelle nach Beendigung der __10__ Schleifendurchgänge den Wert der Variablen `c
 
 So könnte Dein Programm aussehen.
 
-![Screenshot](./screenshot.png "Screenshot" =250x)
+![Screenshot](./screenshot.png =250x "Screenshot")
 
 ## Javascript-Code
 
