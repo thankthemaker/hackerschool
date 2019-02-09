@@ -26,3 +26,9 @@ __ACHTUNG:__ In dieser Lektion werden zwei __Micro:Bits__ mit demselben Code pro
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}

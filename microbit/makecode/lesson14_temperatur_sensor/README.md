@@ -62,3 +62,9 @@ Es sollte nun alle 2 Sekunden die aktuelle Temperatur und Luftfeuchtigkeit auf d
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}

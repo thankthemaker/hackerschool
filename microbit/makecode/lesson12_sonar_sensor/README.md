@@ -36,3 +36,9 @@ Verwende eine Endlosschleife (Block __dauerhaft__) in der Du permanent mit dem S
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}

@@ -24,3 +24,9 @@ Stelle nach Beendigung der 10 Schleifendurchgänge den Wert der Variablen _count
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}

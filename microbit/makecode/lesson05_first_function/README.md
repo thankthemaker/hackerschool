@@ -28,3 +28,9 @@ In jedem Schleifendurchlauf wird der aktuelle Wert der Variablen _counter_ auf d
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}

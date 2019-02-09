@@ -35,6 +35,12 @@ So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
 
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main.js %}
+{% endhighlight %}
+
 # Erweiterte Variante
 
 Möchtest Du Deine Verkehrsampel noch besser machen? Dann füge einen Countdown hinzu, der anzeigt wie lange die Grün- und Rot-Phasen jeweils noch dauern.
