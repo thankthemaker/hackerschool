@@ -9,6 +9,8 @@ permalink: /microbit/makecode/lesson11_traffic_light/
 
 # Lektion 12 - Verkehrsampel
 
+Hardware {: .label .label-green }
+
 In dieser Lektion wollen wir eine Verkehrsampel simulieren. Dafür benötigst Du drei LEDs (1x rot, 1x gelb, 1x grün) und drei Widerstände mit 220 Ohm.
 
 Die Verkehrsampel soll die Farben wechseln und dazwischen jeweils Pausen einhalten. In Deutschland folgt eine Ampel dabei folgenden vier Phasen.
