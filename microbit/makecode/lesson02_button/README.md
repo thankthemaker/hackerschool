@@ -14,11 +14,11 @@ Verwende die beiden Button (Knöpfe) Deines Micro:Bit um über den Knopfdruck ei
 ## Anleitung
 
 Nutze die beiden Button Deines Micro:bit um abwechselnd ein Icon anzuzeigen und zu löschen.
-Du benötigst dazu Blöcke aus dem _Eingabe_-Block.
+Du benötigst dazu Blöcke aus dem ´Eingabe´_-Block.
 
-Bei Druck auf den Button __A__ wird ein Herz angezeigt.
+Bei Druck auf den Button ´A´ wird ein Herz angezeigt.
 
-Bei Druck auf den Button __B__ der Bildschirm wieder gelöscht
+Bei Druck auf den Button ´B´ der Bildschirm wieder gelöscht
 
 ## Blocks
 
