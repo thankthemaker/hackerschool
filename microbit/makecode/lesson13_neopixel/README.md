@@ -17,9 +17,9 @@ MakeCode Erweiterung
 
 In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten kann. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
 
-<img src="./neopixel_stick.jpg" width="150px"/>
+<img src="./neopixel_stick.jpg" width="200px"/>
 
-<img src="./neopixel_single.jpg" width="150px"/>
+<img src="./neopixel_single.jpg" width="200px"/>
 
 Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
 
@@ -37,7 +37,7 @@ Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und such
 
 Schließe nun eine Neopixel-LED mit drei Krokodilklemmen an Deinen __Micro:Bit__ an. Dabei ist es egal, ob es sich um einen Neopixel-Stick oder eine einzelne Neopixel-LED handelt, die Anschlussart ist gleich.
 
-<img src="./neopixel_single_pins.jpg" width="150px"/>
+<img src="./neopixel_single_pins.jpg" width="200px"/>
 
 Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlossen werden.
 
