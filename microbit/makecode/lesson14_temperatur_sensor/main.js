@@ -1,3 +1,4 @@
+
 OLED.init(64, 128)
 OLED.loadingScreen()
 basic.forever(function () {

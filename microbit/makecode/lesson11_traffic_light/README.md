@@ -60,3 +60,9 @@ Ersetze nun die Pausen Deines bisherigen Programms durch Aufrufe der beiden Funk
 So könnte die erweiterte Variante Deines Programms aussehen.
 
 ![Screenshot Advanced](./screenshot_advanced.png "Screenshot Advanced")
+
+## Javascript-Code
+
+{% highlight javascript %}
+    {% include_relative main_advanced.js %}
+{% endhighlight %}

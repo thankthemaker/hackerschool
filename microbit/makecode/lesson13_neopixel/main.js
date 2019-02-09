@@ -1,3 +1,4 @@
+
 let item: neopixel.Strip = null
 item = neopixel.create(DigitalPin.P0, 8, NeoPixelMode.RGBW)
 item.showRainbow(1, 360)
