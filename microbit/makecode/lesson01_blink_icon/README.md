@@ -24,6 +24,6 @@ So könnte Dein Programm aussehen.
 
 ## Javascript-Code
 
-  {% highlight javascript %}
-  {% include_relative {{ ./main.js }} %}
-  {% endhighlight %}
+{% highlight java %}
+    {% include main.js %}
+{% endhighlight %}
