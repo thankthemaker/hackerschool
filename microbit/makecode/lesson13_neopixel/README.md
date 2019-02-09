@@ -11,7 +11,11 @@ permalink: /microbit/makecode/lesson13_neopixel/
 
 In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten können. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
 
-Ziel der Lektion ist es ein eizelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer Regenbogenfarbe anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
+![Neopixel Stick](./neopixel_stick.jpg "Neopixel Stick")
+
+![Neopixel Stick](./neopixel_single.jpg "Neopixel Stick")
+
+Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer Regenbogenfarbe anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
 
 ## MakeCode-Erweiterung
 
@@ -25,7 +29,17 @@ Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und such
 
 ## Anschlüsse
 
-Schließe nun eine Neopixel-LED wie im folgenden Bild mit drei Krokodilklemmen an Dein Micro:Bit an.
+Schließe nun eine Neopixel-LED mit drei Krokodilklemmen an Deinen Micro:Bit an. Dabei ist es egal, ob es sich um einen Neopixel-Stick oder eine einzelne Neopixel-LED handelt, die Anschlussart ist gleich.
+
+![Neopixel PINs](./neopixel_single_pins.jpg "Neopixel PINS")
+
+Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlossen werden.
+
+| Neopixel | Micro:Bit | Erklärung|
+|---|:---|:---|
+|DIN | P2 | Steuerleitung|
+|VDD | 3V | Spannungsversorgung (3V-7V)|
+|GND | GND | Masseleitung|
 
 ![Wiring](./wiring.png "Wiring")
 

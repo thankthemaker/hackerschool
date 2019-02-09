@@ -9,7 +9,9 @@ permalink: /microbit/makecode/lesson07_radio_gravity
 
 # Lektion 7 - Bewegungen per Funk übertragen
 
-Dein Micro:Bit verfügt über ein eingebautes Funkmodul, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
+In der vorherigen Lektion hast Du bereits gelernt, dass Dein Micro:Bit  über ein eingebautes Funkmodul verfügt, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
+
+In dieser Lektion wollen wir zusätzlich 
 
 ## Anschlüsse
 

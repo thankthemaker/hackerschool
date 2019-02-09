@@ -41,7 +41,21 @@ Schließe  den Temperatursensor DHT11 oder DHT22 und das OLED wie in folgendem B
 
 ## Anleitung
 
-___ToDo___
+Du benötigst aus dem _Grundlagen_-Block die Blöcke _beim Start_ und _dauerhaft_.
+
+Im _beim Start_-Block musst Du zunächst Dein OLED korrekt initialisieren, d.h. Du musst dem __Micro:Bit__-Programm mitteilen, wieviele Pixel es in der Höhe und der Breite hat. Verwende  _initialize OLED..._ und setze den Wert _height_ auf 64 und den Wert _width_ auf 128, daraus ergibt sich die _Auflösung_ des Displays. Zusätzlich kannst Du mit _show loading screen_ ein Ladegrafik anzeigen.
+
+Im _dauerhaft_-Block ließt Du jetzt als Endlosschleife die Werte für Temperatur und Luftfeuchtigkeit aus und stellst diese auf dem Display dar.
+
+Gib zunächst die Zeichenkette (String) _"Temperatur:"_ aus, verwende dazu den Block _show string_.
+
+Zeige dann die Temperatur an. Verwede dabei den Block _Show (without newline) number_ und ersetze den Wert mit _value of dht11 temperature_.
+
+Dasselbe machst Du für die Luftfeuchtigkeit. Gib  die Zeichenkette (String) _"Luftfeucht.:"_ aus unter Verwendung des Blocks _show string_ aus. Verwede dnn ebenfalls den Block _Show (without newline) number_ und ersetze den Wert mit _value of dht11 humidity_.
+
+Zum Abschluss füge noch eine Pause von 2 Sekunden hinzu und lösche das Display mit dem Block _clear OLED display_.
+
+Es sollte nun alle 2 Sekunden die aktuelle Temperatur und Luftfeuchtigkeit auf dem OLED angezeigt werden. Hauche vorsichtig den Sensor ab, damit sich die Werte ändern.
 
 ## Blocks
 

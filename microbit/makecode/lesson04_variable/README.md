@@ -9,7 +9,7 @@ permalink: /microbit/makecode/lesson04_variable/
 
 # Lektion 4 - Variablen (variables)
 
-In dieser Lektion beschäftigen wir uns damit, wie wir uns im Programm Werte temporär merken können. Wollen wir z.B. in einer Schleife wissen im wievieltem Schleifendurchgänge (welche Iteration) wir uns befinden, so müssen wir uns diesen Wert merken. 
+In dieser Lektion beschäftigen wir uns damit, wie wir uns im Programm Werte temporär merken können. Wollen wir z.B. in einer Schleife wissen im wie vieltem Schleifendurchgang (welche Iteration) wir uns befinden, so müssen wir uns diesen Wert merken. 
 
 ## Anleitung 
 
