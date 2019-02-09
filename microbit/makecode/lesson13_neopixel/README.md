@@ -9,13 +9,13 @@ permalink: /microbit/makecode/lesson13_neopixel/
 
 # Lektion 13 - Neopixel 
 
-In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten können. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
+In dieser Lektion wollen wir spezielle LEDs zum leuchten bringen. Das Spezielle an diesen LEDs ist, dass eine einzelne LED sowohl rot als auch grün als auch blau leuchten kann. Durch Mischung der drei Grundfarben kann jede beliebige Farbe erzeugt werden, ähnlich wie bei einem Farbmalkasten. Diese LED sind unter dem Namen Neopixel bekannt. 
 
 ![Neopixel Stick](./neopixel_stick.jpg "Neopixel Stick")
 
 ![Neopixel Stick](./neopixel_single.jpg "Neopixel Stick")
 
-Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer Regenbogenfarbe anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
+Ziel der Lektion ist es ein einzelnes Neopixel oder einen Streifen von mehreren Neopixeln in den Regenbogenfarben leuchten zu lassen. Dazu wird jedes Pixel nach und nach mit einer anderen Farbe zum leuchten gebracht. Hat ein Pixel alle Farben einmal angezeigt, beginnen wir von vorne.
 
 ## MakeCode-Erweiterung
 
@@ -29,7 +29,7 @@ Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und such
 
 ## Anschlüsse
 
-Schließe nun eine Neopixel-LED mit drei Krokodilklemmen an Deinen Micro:Bit an. Dabei ist es egal, ob es sich um einen Neopixel-Stick oder eine einzelne Neopixel-LED handelt, die Anschlussart ist gleich.
+Schließe nun eine Neopixel-LED mit drei Krokodilklemmen an Deinen __Micro:Bit__ an. Dabei ist es egal, ob es sich um einen Neopixel-Stick oder eine einzelne Neopixel-LED handelt, die Anschlussart ist gleich.
 
 ![Neopixel PINs](./neopixel_single_pins.jpg "Neopixel PINS")
 
@@ -45,10 +45,10 @@ Für diese Lektion benötigen wir nur drei _"Beinchen"_, die wie folgt angeschlo
 
 ## Anleitung
 
-Verwende den __beim Start__ Block um beim Einschalten oder Zurücksetzen des Micro:Bit die Neopixel Bibliothek zu initialisieren, d.h. festzulegen, wieviele Pixel (Anzahl LED) Dein Neopixel hat, an welchem Anschluss Du diesen per Krokodilklemme angeklemmt hast und welche Farben die einzelnen LEDs verwenden können.
-Verwende zusätzlich den Block __zeige Regenbogen von Farbton__, der dafür sorgt dass die einzelnen Pixel mit unterschiedlichen Farben belegt werden. Damit die Anzeige aktuallisiert wird, benötigst Du zusätzlich den __anzeigen__ Block. 
+Verwende den _beim Start_ Block um beim Einschalten oder Zurücksetzen des __Micro:Bit__ die Neopixel Bibliothek zu initialisieren, d.h. festzulegen, wieviele Pixel (Anzahl LED) Dein Neopixel hat, an welchem Anschluss Du diesen per Krokodilklemme angeklemmt hast und welche Farben die einzelnen LEDs verwenden können.
+Verwende zusätzlich den Block _zeige Regenbogen von Farbton_, der dafür sorgt dass die einzelnen Pixel mit unterschiedlichen Farben belegt werden. Damit die Anzeige aktuallisiert wird, benötigst Du zusätzlich den _anzeigen_ Block. 
 
-Erstelle zusätzlich eine Endlosschleife (Block __dauerhaft__) in der Du die Pixel um jeweils 1 rotierst, die Anzeige aktuallisierst und dann eine Pause von 500 ms machst.
+Erstelle zusätzlich eine Endlosschleife (Block _dauerhaft_) in der Du die Pixel um jeweils 1 rotierst, die Anzeige aktuallisierst und dann eine Pause von 500 ms machst.
 
 ## Blocks
 

@@ -21,3 +21,9 @@ Zwischen dem Anzeigen und Löschen soll jeweils eine kurze Pause eingehalten wer
 So könnte Dein Programm aussehen.
 
 ![Screenshot](./screenshot.png "Screenshot")
+
+## Javascript-Code
+
+  {% highlight javascript %}
+  {% include_relative {{ ./main.js }} %}
+  {% endhighlight %}

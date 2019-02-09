@@ -11,17 +11,17 @@ permalink: /microbit/makecode/lesson11_traffic_light/
 
 In dieser Lektion wollen wir eine Verkehrsampel simulieren. Dafür benötigst Du drei LEDs (1x rot, 1x gelb, 1x grün) und drei Widerstände mit 220 Ohm.
 
-Die Verkehrsampel soll abwechselnd die Farben wechseln und dazwischen jeweils Pausen einhalten. In Deutschland folgt eine Ampel dabei folgenden vier Phasen.
+Die Verkehrsampel soll die Farben wechseln und dazwischen jeweils Pausen einhalten. In Deutschland folgt eine Ampel dabei folgenden vier Phasen.
 
 ![Ampelphasen](./traffic_lights_4_states.png "Ampelphasen")
 
 Für diese Lektion wählen wir die Länge der Pausen zwischen den Wechseln der einzelnen Phasen mit 2 Sekunden und 5 Sekunden.
 Die Phasen 1 und 3 sollen 5 Sekunden dauern.
-Die Phasen 2 und 4 sollen 2 Sekunden dauarn.
+Die Phasen 2 und 4 sollen 2 Sekunden dauern.
 
 ## Anschlüsse 
 
-Die drei LEDs und die Widerstände schließt Du wie in dem Bild dargestellt mit Krokodilklemmen an die drei Anschlüsse __1__, __2__ und __3__ an. Zwischen den Kontakt am Micro:Bit und der LED muss jeweils einer der Wiederstände zwischengeschaltet werden.
+Die drei LEDs und die Widerstände schließt Du, wie in dem Bild dargestellt, mit Krokodilklemmen an die drei Anschlüsse __1__, __2__ und __3__ an. Zwischen den Kontakt am __Micro:Bit__ und der LED muss jeweils einer der Widerstände zwischengeschaltet werden.
 
 ![Verkehrsampel](./wiring.png "Verkehrsampel")
 
