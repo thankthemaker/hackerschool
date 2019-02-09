@@ -9,7 +9,7 @@ permalink: /microbit/makecode/lesson02_button/
 
 # Lektion 2 - Buttons (Knöpfe)
 
-Verwende die beiden Button (Knöpfe) Deines Micro:Bit um über den Knopfdruck ein Ereignis auszulösen. 
+Verwende die beiden Button (Knöpfe) Deines __Micro:Bit__ um über den Knopfdruck ein Ereignis auszulösen. 
 
 ## Anleitung
 

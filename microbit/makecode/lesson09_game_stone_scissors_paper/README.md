@@ -11,7 +11,7 @@ permalink: /microbit/makecode/lesson09_game_stone_scissors_paper/
 
 Du hast in den vorherigen Lektionen bereits sehr viel Basiswissen erworben. Es ist nun an der Zeit mit dem Wissen ein erstes kleines Spiel zu programmieren.
 
-Erstelle nun eine elektronische Variante von dem bekannten Spiel "Stein, Papier, Schere", das oft auch "Schnick, Schnack, Schnuck" genannt wird. Beim Schütteln Deines __Micro:Bit__ soll eine zufällige Zahl zwischen 1 und 3 ermittelt  und jeweils das zugehörige Icon angezeigt werden. Die Zuordnung von der Zahlen zu den Symbolen ist wie folgt:
+Erstelle nun eine elektronische Variante von dem bekannten Spiel _"Stein, Papier, Schere"_, das oft auch _"Schnick, Schnack, Schnuck"_ genannt wird. Beim Schütteln Deines __Micro:Bit__ soll eine zufällige Zahl zwischen __1__ und __3__ ermittelt  und jeweils das zugehörige Symbol angezeigt werden. Die Zuordnung von der Zahlen zu den Symbolen ist wie folgt:
 
 #### Zahl 1 - Stein 
 
@@ -27,25 +27,25 @@ Erstelle nun eine elektronische Variante von dem bekannten Spiel "Stein, Papier,
  
 ## Anleitung
 
-Wähle zunächst aus dem _Eingabe_ Block de Block _wenn geschüttelt_ und lösche innerhalb dieses Blocks zunächst das LED-Matrix Display. 
+Wähle zunächst aus dem `Eingabe`-Block de Block `wenn geschüttelt` und lösche innerhalb dieses Blocks zunächst das LED-Matrix Display. 
 
-Definiere nun eine  Variable _waffe_ und ändere den Wert der Variable auf einen zufällige Wert zwischen 1 und 3. Nutze dazu den entsprechenden Block aus dem _Mathematik_-Block.
+Definiere nun eine  Variable `waffe` und ändere den Wert der Variable auf einen zufällige Wert zwischen __1__ und __3__. Nutze dazu den entsprechenden Block aus dem `Mathematik`-Block.
 
-Jetzt brauchst Du aus dem _Logik_-Block einen _wenn...dann_-Block den Du über das kleine Pluszeichen um zwei weitere _sonst...wenn_-Bedingungen erweiterst. Dieser sollte dann so aussehen:
+Jetzt brauchst Du aus dem `Logik`-Block einen `wenn...dann`-Block den Du über das kleine Pluszeichen um zwei weitere `sonst...wenn`-Bedingungen erweiterst. Dieser sollte dann so aussehen:
 
 ![Bedingungen](./if_elsif_elsif.png "Bedingungen")
 
-In den drei Bedingungen musst Du nun über den Vergleich-_Logik_-Block den Wert der Variablen _waffe_ einzeln mit den Werten 1, 2 und 3 vergleichen. 
+In den drei Bedingungen musst Du nun über den Vergleich-`Logik`-Block den Wert der Variablen `waffe` einzeln mit den Werten __1__, __2__ und __3__ vergleichen. 
 
-In der _wenn_-Bedingung wird also der Wert der Variablen _waffe_ mit dem Wert 1 auf Gleichheit verglichen und falls diese Bedingung zutrifft, das _Stein_-Symbol angezeigt.
+In der `wenn`-Bedingung wird also der Wert der Variablen `waffe` mit dem Wert __1__ auf Gleichheit verglichen und falls diese Bedingung zutrifft, das `Stein`-Symbol angezeigt.
 
-In der ersten _sonst wenn_-Bedingung wird  der Wert der Variablen _waffe_ mit dem Wert 2 auf Gleichheit verglichen und falls diese Bedingung zutrifft, das _Papier_-Symbol angezeigt.
+In der ersten `sonst wenn`-Bedingung wird  der Wert der Variablen `waffe` mit dem Wert __2__ auf Gleichheit verglichen und falls diese Bedingung zutrifft, das `Papier`-Symbol angezeigt.
 
-In der zweiten _sonst wenn_-Bedingung wird  der Wert der Variablen _waffe_ mit dem Wert 3 auf Gleichheit verglichen und falls diese Bedingung zutrifft, das _Schere_-Symbol angezeigt.
+In der zweiten `sonst wenn`-Bedingung wird der Wert der Variablen `waffe` mit dem Wert __3__ auf Gleichheit verglichen und falls diese Bedingung zutrifft, das `Schere`-Symbol angezeigt.
 
 Wenn alles richitg ist, sollte nun beim Schütteln des __Micro:Bit__ zufällig eines der drei Symbole angezeigt werden.
 
-Let's play ...
+___Let's play ... ___
 
 ## Blocks
 

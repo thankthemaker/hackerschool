@@ -11,13 +11,13 @@ permalink: /microbit/makecode/lesson06_radio/
 
 Dein Micro:Bit verfügt über ein eingebautes Funkmodul, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
 
-Nutze das Funkmodul um den Text "boom" von einem __Micro:Bit__ an einen anderen zu übertragen sobald Deinen __Micro:Bit__ schüttelst. Auf dem anderen __Micro:Bit__ soll daraufhin für etwa eine Sekunde das _Totenkopf_-Icon angezeigt werden.
+Nutze das Funkmodul um den Text _"boom"_ von einem __Micro:Bit__ an einen anderen zu übertragen sobald Deinen __Micro:Bit__ schüttelst. Auf dem anderen __Micro:Bit__ soll daraufhin für etwa eine Sekunde das `Totenkopf`-Symbol angezeigt werden.
 
 ## Anleitung
 
-Nutze aus dem Block _Eingabe_ das Ereignis _wenn geschüttelt_ und aus dem Block _Funk_ den Block _sende Zeichenfolge_ um den Code für den sendenden __Micro:Bit__ zu erstellen.
+Nutze aus dem Block `Eingabe` das Ereignis `wenn geschüttelt` und aus dem Block `Funk` den Block `sende Zeichenfolge` um den Code für den sendenden __Micro:Bit__ zu erstellen.
 
-Verwende zusätzlich aus dem Block _Funk_ den Block _wenn Datenpaket Empfangen_ um auf dem empfangenden __Micro:Bit__ auf ein Datenpaket zu reagieren.
+Verwende zusätzlich aus dem Block `Funk` den Block `wenn Datenpaket Empfangen` um auf dem empfangenden __Micro:Bit__ auf ein Datenpaket zu reagieren.
 
 __ACHTUNG:__ In dieser Lektion werden zwei __Micro:Bits__ mit demselben Code programmiert. D.h. beide können Datenpakete senden und empfangen.
 

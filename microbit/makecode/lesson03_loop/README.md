@@ -11,7 +11,7 @@ permalink: /microbit/makecode/lesson03_loop/
 
 ## Anleitung
 
-Erstelle eine Schleife mit 10 Durchläufen. In jedem Durchlauf soll erst das Icon "großes Herz" und dann das Icon "kleines Herz" angezeigt werden.
+Erstelle eine Schleife mit 10 Durchläufen. In jedem Durchlauf soll erst das Icon `großes Herz` und dann das Icon `kleines Herz` angezeigt werden.
 
 ## Blocks
 
@@ -21,6 +21,6 @@ So könnte Dein Programm aussehen.
 
 ## Javascript-Code
 
-{% highlight javascript %}
+{% highlight js %}
     {% include_relative main.js %}
 {% endhighlight %}
