@@ -26,7 +26,7 @@ Die Phasen 2 und 4 sollen 2 Sekunden dauern.
 
 Die drei LEDs und die Widerstände schließt Du, wie in dem Bild dargestellt, mit Krokodilklemmen an die drei Anschlüsse `1`, `2` und `3` an. Zwischen den Kontakt am __Micro:Bit__ und der LED muss jeweils einer der Widerstände zwischengeschaltet werden.
 
-<img src="./wiring.png" width="250px"/>
+<img src="./wiring.png" width="450px"/>
 
 ## Anleitung
 
@@ -36,7 +36,7 @@ Erstelle mit den Blöcken `pausiere` aus dem `Grundlagen`-Block und dem Block `s
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="450px"/>
 
 ## Javascript-Code
 
@@ -62,7 +62,7 @@ Ersetze nun die Pausen Deines bisherigen Programms durch Aufrufe der beiden Funk
 
 So könnte die erweiterte Variante Deines Programms aussehen.
 
-![Screenshot Advanced](./screenshot_advanced.png "Screenshot Advanced")
+<img src="./screenshot_advanced.png" width="450px"/>
 
 ## Javascript-Code
 
