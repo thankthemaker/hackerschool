@@ -77,7 +77,7 @@ Im MakeCode Editor gibt es verschiedene Blöcke.
 
 ##### Grundlagen (hell blau)
 
-<img src="./basic.png" width="100px"/>
+<img src="./basic.png" width="150px"/>
 
 Unter diesem Punkt finden sich einige grundlegende Blöcke, z.B. die Hauptschleife oder der Zugriff auf das LED-Display.
 
@@ -86,44 +86,44 @@ Alles Blöcke im Block __dauerhaft__ werden ständig und nacheinande wiederholt,
 
 ##### Eingabe (pink)
 
-![Screenshot](./input.png "Screenshot")
+<img src="./input.png" width="150px"/>
 
 In diesem Abschnitt finden sich Blöcke um auf Bewegungen oder Knopfdrücke zu reagieren.
 
 ##### Musik (hell rot)
 
-![Screenshot](./music.png "Screenshot")
+<img src="./music.png" width="150px"/>
 
 Mit den Blöcken aus dem Bereich Musik können Töne und Melodien auf einen separat anschließbaren Lautsprecher ausgegeben werden.
 
 ##### LED (dunkel blau)
 
-![Screenshot](./led.png "Screenshot")
+<img src="./led.png" width="150px"/>
 
 ##### Funk (magenta)
 
-![Screenshot](./radio.png "Screenshot")
+<img src="./radio.png" width="150px"/>
 
 Hinter dem Punkt verbergen sich Blöcke um mit dem Funkmodulen des nRF51 Daten senden und empfangen zu können.
 
 ##### Schleifen (grün)
 
-![Screenshot](./loops.png "Screenshot")
+<img src="./loops.png" width="150px"/>
 
 Programme beinhalten oft wiederkehrende Aufgaben. Um solche programmieren zu können, beinhaltet dieses Menü Blöcke um unterschiedliche Schleifen zu entwickeln. 
 
 ##### Logik (türkis)
 
-![Screenshot](./logic.png "Screenshot")
+<img src="./logic.png" width="150px"/>
 
 ##### Variablen (dunkel rot)
 
-![Screenshot](./variables.png "Screenshot")
+<img src="./variables.png" width="150px"/>
 
 ##### Mathematik (lila)
 
-![Screenshot](./math.png "Screenshot")
+<img src="./math.png" width="150px"/>
 
 ##### Fortgeschritten (schwarz)
 
-![Screenshot](./advanced.png "Screenshot")
+<img src="./advanced.png" width="150px"/>
