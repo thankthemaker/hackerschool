@@ -21,7 +21,7 @@ Ebenfalls weit verbreitetet und aus kaum einer Robotik-AG in den Schulen wegzude
 
 ## NodeMCU
 
-Unter dem Namen NodeMCU wird eine Reihe von Microcontrollern und Entwicklerboards vertrieben, die auf einen Open-Source Hardwareentwurf https://www.nodemcu.com/index_en.html rund um den Espressif ESP8266 Chipsatz und eine Open-Source Firmware zurückgehen. Die original Firmware unterstützt die Entwicklung mit Lua. Inzwischen gibt es viele andere unterstütze Firmware-Images und Entwicklungsmöglichkeiten, u.a. auch Arduino und Micropython.
+Unter dem Namen NodeMCU wird eine Reihe von Microcontrollern und Entwicklerboards vertrieben, die auf einen [Open-Source Hardwareentwurf](https://www.nodemcu.com/index_en.html) rund um den Espressif ESP8266 Chipsatz und eine Open-Source Firmware zurückgehen. Die original Firmware unterstützt die Entwicklung mit Lua. Inzwischen gibt es viele andere unterstütze Firmware-Images und Entwicklungsmöglichkeiten, u.a. auch Arduino und Micropython.
 
 NodeMCU hat sich als insbesondere als günstiger Einstieg in die IoT-Welt und für andere Internet-basierte Anwendungen bewährt. In dem Bereich __NodeMCU__ finden sich Beispiele für die Entwicklung mittels Arduino und Micropython. Zusätzlich sind Beispiele für das Zusammenspiel mit Blynk enthalten.
 
@@ -33,6 +33,6 @@ Da im Internet schon genügend Informationen existieren, wie bspw. eine LED mit 
 
 ## ODROID-GO
 
-![Hardkernel](https://www.hardkernel.com) bietet seit einigen Jahren interessante Alternativen zu den üblichen Einplatinencomputern. Zum 10-jahrigen Jubiläum haben die Koreaner mit dem ![ODROID-GO](https://www.hardkernel.com/shop/odroid-go/) ein selbstbau Game-Kit auf den Markt gebracht, das sich in der Makerscene großer Beliebtheit erfreut.
+[Hardkernel](https://www.hardkernel.com) bietet seit einigen Jahren interessante Alternativen zu den üblichen Einplatinencomputern. Zum 10-jahrigen Jubiläum haben die Koreaner mit dem [ODROID-GO](https://www.hardkernel.com/shop/odroid-go/) ein selbstbau Game-Kit auf den Markt gebracht, das sich in der Makerscene großer Beliebtheit erfreut.
 
 Der ODROID-GO bietet nicht nur eine spezielle Firmware mit Emulatoren für diverse Systeme (Nintendo Entertainment System, GameBoy, u.a.), seine Chipsatz auf Basis des Espressif ESP32 lädt zum Hacken und Modding ein. Nichts anderes müssen die _Guys_ von Hardkernel im Sinn gehabt haben, als sie den ODROID-GO entwarfen, verfügt er doch schon von Haus aus über nach außen gelegte GPIOs.
