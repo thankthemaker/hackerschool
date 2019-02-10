@@ -55,5 +55,5 @@ In dem SoC ist ein Sensor integriert, der die Temperatur der CPU misst. Aus der 
 
 Am unteren Ende des Micro:Bit ist eine Kontaktleiste angebracht, über die weitere Sensoren und Geräte angeschlossen werden können. Einige der Kontakte sind auch für Bananenstecker oder Krokodilklemmen geeignet und ermöglichen damit z.B. sehr leicht den Anschluss von einfachen Sensoren.
 
-![Microbit PINS](./microbit_pins.jpg "Microbit PINS")
+![Microbit PINS](./microbit-pins.jpg "Microbit PINS")
 
