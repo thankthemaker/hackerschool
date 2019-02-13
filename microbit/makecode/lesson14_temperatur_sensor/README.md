@@ -43,6 +43,14 @@ Das hier verwendete Display hat eine Größe von 0,96 Zoll, dies entspricht etwa
 
 Schließe  den Temperatursensor DHT11 oder DHT22 und das OLED wie in folgendem Bild dargestellt an Deinen __Micro:Bit__ an. 
 
+| OLED | DHT11 | Micro:bit | Beschreibung |
+| --- | --- | --- | --- |
+| VCC | 3V | 3V | Spannungsversorgung |
+| GND | GND | GND | Masseleitung |
+| SCL | | Pin 19 (SCL) | Signal Clock |
+| SDA | | Pin 20 (SDA) | Signal Data |
+| | X | Pin 0 | Analog In |
+
 <img src="./wiring.png" width="450px"/>
 
 ## Anleitung

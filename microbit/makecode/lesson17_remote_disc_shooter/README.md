@@ -1,5 +1,5 @@
 ---
-title: Lektion 17 - Ferngesteuerter Disc-Shooter
+title: Lektion 17 - Disc-Shooter
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
@@ -12,4 +12,4 @@ permalink: /microbit/makecode/lesson17_remote_disc_shooter/
 Hardware
 {: .label .label-green }
 
-___ToDo___
+In dieser Lektion baust Du einen ferngesteuerten Disc-Shooter. 

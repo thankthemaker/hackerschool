@@ -12,7 +12,7 @@ permalink: /microbit/makecode/lesson18_timing_gates/
 Externe Lektion
 {: .label .label-red }
 
-Ziel ist es Deinen __Micro:Bit__ in eine Zeit- und Geschwindigkeitsmessstation zu verwandeln. Damit kannst Du z.B. die Geschwindigkeit von ferngesteuerten Autos messen oder einen Rundentähler für Deine Carrerabahn bauen.
+Ziel ist es Deinen __Micro:Bit__ in eine Zeit- und Geschwindigkeitsmessstation zu verwandeln. Damit kannst Du z.B. die Geschwindigkeit von ferngesteuerten Autos messen oder einen Rundenzähler für Deine Carrerabahn bauen.
 Folge dem Artikel 
 [Timing Gates](https://makecode.microbit.org/projects/timing-gates "Timing Gates")
 

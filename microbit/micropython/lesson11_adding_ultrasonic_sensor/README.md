@@ -1,6 +1,7 @@
 ---
 title: Lektion 11  - Ultraschallsensor
 parent: Microbit Micropython
+grand_parent: Microbit
 has_children: false
 nav_order: 12
 permalink: /microbit/micropython/lesson11_adding_ultrasonic_sensor/

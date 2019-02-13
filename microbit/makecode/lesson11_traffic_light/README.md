@@ -69,3 +69,8 @@ So könnte die erweiterte Variante Deines Programms aussehen.
 {% highlight javascript %}
     {% include_relative main_advanced.js %}
 {% endhighlight %}
+
+## Ampel
+
+- [Ampelgehäuse 3D-Druck](https://www.thingiverse.com/thing:2775818)
+- [Basisset LEDs](https://www.amazon.de/dp/B00N9WEY0S/ref=pe_3044161_185740101_TE_item)

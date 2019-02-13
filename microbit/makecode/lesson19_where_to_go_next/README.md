@@ -1,5 +1,5 @@
 ---
-title: Wie geht es weiter?
+title: Ausblick
 parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false

@@ -1,6 +1,7 @@
 ---
 title: Lektion 12  - Fireflies
 parent: Microbit Micropython
+grand_parent: Microbit
 has_children: false
 nav_order: 12
 permalink: /microbit/micropython/lesson12_radio_fireflies/

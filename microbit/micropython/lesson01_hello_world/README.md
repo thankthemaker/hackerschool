@@ -11,8 +11,7 @@ permalink: /microbit/micropython/lesson01_hello_world/
 
 ## Anleitung
 
-Nutze eine Endlosschleife um abwechselnd ein Icon anzuzeigen und den LED-Bildschirm zu löschen. 
-Zwischen dem Anzeigen und Löschen soll jeweils eine kurze Pause eingehalten werden.
+Gib auf dem Matix-LED-Display Deines __Micro:Bit__ den Text _Hello World!_ aus.
 
 ## Python-Code
 
