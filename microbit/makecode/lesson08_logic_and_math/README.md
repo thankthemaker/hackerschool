@@ -20,7 +20,7 @@ Beim _Schütteln_ des __Micro:Bit__ soll das Ergebnis der Aufgabe berechnet werd
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="350px"/>
 
 ## Javascript-Code
 
