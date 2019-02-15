@@ -4,7 +4,7 @@ parent: Microbit MakeCode
 grand_parent: Microbit
 has_children: false
 nav_order: 8
-permalink: /microbit/makecode/lesson07_radio_gravity
+permalink: /microbit/makecode/lesson07_radio_gravity/
 ---
 
 # Lektion 7 - Bewegungen per Funk übertragen
