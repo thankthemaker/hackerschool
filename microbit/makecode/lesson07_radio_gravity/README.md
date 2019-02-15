@@ -23,7 +23,7 @@ Nutze einen weitern Block `wenn nach rechts neigen` aus dem `Eingabe`-Block um a
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="350px"/>
 
 ## Javascript-Code
 
