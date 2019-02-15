@@ -39,31 +39,32 @@ Die Belegung in tabellarischer Form.
 
 Lade zunächst die Bibliothek für das SSD1306 Display auf Deinen __Micro:Bit__.
 
-Anschließend musst Du die Bibliothek und die `machine`-Bibliothek importieren
+Anschließend musst Du die Bibliothek importieren, damit Du im Code die Funktionen nutzen kannst.
 
 ```js
-import machine
-import ssd1306
+from ssd1306 import draw_screen, initialize, clear_oled
+from ssd1306_text import add_text
 ```
 
-Als nächstes musst Du den I2C-Bus initialisieren. Aus der Tabelle können wir entnehmen, dass SCL an Pin 19 und SDA am Pin 20 anliegen. 
+Bevor wir das OLED im Programm nutzen können, muss erst noch das Display initialisiert werden. Dazu dient die Methode initialize.
 
 ```js
-i2c = machine.I2C(scl=machine.Pin(19), sda=machine.Pin(20))
+initialize()
 ````
 
-Bevor wir das OLED im Programm nutzen können, muss erst noch eine Instanz der Klasse SSD1306_I2C erstellt werden. Dem Konstruktor übergeben wir die Anzahl der Pixel in der Horizontalen (128), die Anzahl der Pixel in der Vertikalen (64), das I2C-Objekt. Der letzte Parameter gibt die I2C-Adresse des Displays an. Dies ist notwendig da der I2C-Bus bis zu 127 Geräte über die zwei Leitungen ansprechen kann und daher die Adresse benötigt wird, um das jeweilige Gerät anzusprechen.
+Jetzt kannst Du das Display ansprechen und z.B. Text darstellen. Dieser wird allerdings nicht direkt angezeigt. Die Bibliothek puffert den Text erst in einem Zwischenspeicher.
 
 ```js
-oled = ssd1306.SSD1306_I2C(128, 64, i2c, 0x3c)
+add_text(2, 1, "Hello")
+add_text(2, 3, "World!")
 ```
 
-Jetzt kannst Du das Display ansprechen und z.B. Text darstellen.
+Die  beiden Zeilen schreiben Text an den angegebenen Positionen auf das Display. 
+
+Erst die Methode draw_screen() sorgt dafür, dass dieser Text tatsächlich auf dem OLED angezeigt wird.
 
 ```js
-oled.fill(0)
-oled.text("Hello World", 0, 0)
-oled.show()
+draw_screen()
 ```
 
 ## Python-Code

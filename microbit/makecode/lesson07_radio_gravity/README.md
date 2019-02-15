@@ -11,17 +11,13 @@ permalink: /microbit/makecode/lesson07_radio_gravity
 
 In der vorherigen Lektion hast Du bereits gelernt, dass Dein __Micro:Bit__ über ein eingebautes Funkmodul verfügt, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
 
-In dieser Lektion wollen wir zusätzlich 
-
-## Anschlüsse
-
-___ToDo___
-
-<img src="./wiring.png" width="250px"/>
+In dieser Lektion wollen wir zusätzlich den Beschleunigungssensor verwenden und den gemessenen Wert per Funk übertragen.
 
 ## Anleitung
 
-___ToDo___
+Nutze den Block `wenn nach links neigen` aus dem `Eingabe`-Block um ein Datenpaket zu senden, wenn der __Micro:Bit__ nach links geneigt wird. Miss mit dem Block `Beschleunigung (mg) y` den vertikalen Beschleunigungwert und sende ihn mit dem Block `schicke Wert "name" = 0 über Funk`. Verwende dabei den Text __L__ als _Name_.
+
+Nutze einen weitern Block `wenn nach rechts neigen` aus dem `Eingabe`-Block um auf die gleiche Weise den Bechleunigungswert zu senden. Verwende dabei den Text __R__ als _Name_. __L__ und __R__ dienen dabei als Abkürzungen für recht bzw. links.
 
 ## Blocks
 
