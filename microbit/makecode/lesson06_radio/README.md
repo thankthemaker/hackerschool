@@ -25,7 +25,7 @@ __ACHTUNG:__ In dieser Lektion werden zwei __Micro:Bits__ mit demselben Code pro
 
 So könnte Dein Programm aussehen.
 
-<img src="./screenshot.png" width="250px"/>
+<img src="./screenshot.png" width="350px"/>
 
 ## Javascript-Code
 
