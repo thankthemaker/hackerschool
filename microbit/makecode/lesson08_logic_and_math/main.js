@@ -1,3 +1,4 @@
+
 let b = 0
 let a = 0
 input.onButtonPressed(Button.A, function () {
