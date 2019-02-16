@@ -1,6 +1,7 @@
+
 from microbit import *
-# import machine 
-# import ssd1306
+from ssd1306 import draw_screen, initialize, clear_oled
+from ssd1306_text import add_text
 import gc
 
 DISTANCE_CM_PER_BIT = 0.21
@@ -8,8 +9,8 @@ DISTANCE_OFFSET = 1.8
 
 TRIG_PIN = pin0
 ECHO_PIN = pin1
-# i2c = machine.I2C(scl=machine.Pin(22), sda=machine.Pin(18))
-# oled = ssd1306.SSD1306_I2C(128, 64, i2c, 0x3c)
+initialize()
+clear_oled()
 spi.init(baudrate=50000, bits=8, mode=0, miso=ECHO_PIN)
 
 def distance():
@@ -33,7 +34,7 @@ def distance():
 while True:
     dist = distance()
     print(str(dist))
-#    oled.fill(0)
-#    oled.text("Distanz: " + str(dist), 10, 0)
-#    oled.show()
+    add_text(2, 1, "Distanz: ")
+    add_text(2, 3, str(dist))
+    draw_screen()
     sleep(1000)   
