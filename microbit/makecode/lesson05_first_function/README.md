@@ -11,11 +11,11 @@ permalink: /microbit/makecode/lesson05_first_function/
 
 Oft möchte man in einem Programm an verschiedenen Stellen dieselben Blöcke ausführen. Damit man diese nicht mehrfach hinzufügen muss, können diese Schritte in eine Funktion ausgelagert  und von verschiedenen Stellen aus aufgerufen werden.
 
-In dieser Lektion wollen wir einen Countdown in einer Funktion implementieren, die wir dann beim Druck auf einen Knopf aufrufen.
+In dieser Lektion wollen wir einen Countdown in einer Funktion implementieren, die wir dann beim Druck auf die Knöpfe `A` und `B` aufrufen.
 
 ## Anleitung
 
-Erstelle eine Funktion und rufe diese beim Druck auf Button `A` auf.
+Erstelle eine Funktion und rufe diese beim Druck auf Button `A` oder `B` auf.
 
 Die Funktion soll eine Variable `counter` definiern und mit dem initialen Wert __6__ belegen.
 
