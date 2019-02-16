@@ -1,6 +1,6 @@
 
 let counter = 0
-function Countdown22() {
+function Countdown() {
     counter = 6
     while (counter >= 0) {
         basic.showNumber(counter)
@@ -8,5 +8,8 @@ function Countdown22() {
     }
 }
 input.onButtonPressed(Button.A, function () {
-    Countdown22()
+    Countdown()
+})
+input.onButtonPressed(Button.B, function () {
+    Countdown()
 })
