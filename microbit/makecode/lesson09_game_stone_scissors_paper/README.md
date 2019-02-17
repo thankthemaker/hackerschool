@@ -58,3 +58,14 @@ So könnte Dein Programm aussehen.
 {% highlight javascript %}
     {% include_relative main.js %}
 {% endhighlight %}
+
+## Erweiterte Version
+
+Zwei Teilnehmerinnen haben eine erweiterte Version des Programms erstellt, bei dem das jeweilige gewählte Symbol auf den __Micro:Bit__ des anderen Spielers übertragen wird und dann per Smily angezeigt wird, wer die Runde gewonnen oder verloren hat.
+
+<img src="./screenshot_advanced.png" width="550px"/>
+
+{% highlight javascript %}
+    {% include_relative main_advanced.js %}
+{% endhighlight %}
+
