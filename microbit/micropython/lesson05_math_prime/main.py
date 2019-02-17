@@ -1,10 +1,25 @@
-bool prim(int n){
-    int x;
-    if(n<2) return false
-    if(n==2) return true
-    if(n%2==0) return false
-    for(x=3;x<=sqrt(n);x+=2):
-        if(n%x==0)
-        return false
-	return true
-}
+
+from microbit import *
+
+def prim(candidate):
+    if candidate < 2:
+        return False
+    
+    if candidate == 2:
+        return True
+
+    if candidate % 2 == 0:
+        return False
+
+    x = 3
+    while True:
+        if x < candidate:
+            if candidate % x == 0:
+                return False
+            x = x + 2
+        else:
+            return True
+    
+for candidate in range(1, 100):
+    if(prim(candidate)):
+        print(candidate) 

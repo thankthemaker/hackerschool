@@ -25,7 +25,9 @@ Die meisten Programmiersprachen nutzen zur Gliederung geschweifte Klammern. Pyth
 
 ### Variablen
 
-
+```python
+let zahl = 5
+```
 
 ### Schleifen
 
@@ -37,7 +39,7 @@ while <bedingung>:
     Anweisung_2
     ...
     Anweisung_n
-````
+```
 
 #### for-Schleife
 
@@ -63,3 +65,5 @@ else
 ```
 
 ### Funktionen
+
+def funktionsname(parameter):
