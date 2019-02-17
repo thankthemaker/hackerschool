@@ -8,8 +8,7 @@ nav_exclude: true
 
 __Schön__, _dass_ __Du__ _an der Hackerschool teilgenommen hast._
 
-Falls Du Dir noch einmal anscheuen möchtest, womit wir uns in Deinem Kurs beschäftigt haben, findest Du hier alle Informationen zum Kurs 
-__micro:bit__.
+Falls Du Dir noch einmal anschauen möchtest, womit wir uns in Deinem Kurs beschäftigt haben, findest Du hier alle Informationen zum Kurs __micro:bit__.
 
 ## Lektionen
 
