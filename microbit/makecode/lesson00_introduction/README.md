@@ -77,3 +77,11 @@ Programme beinhalten oft wiederkehrende Aufgaben. Um solche programmieren zu kö
 ##### Fortgeschritten (schwarz)
 
 <img src="./advanced.png" width="150px"/>
+
+### Micro:Bit programmieren (flashen)
+
+Nachdem Du Dein Programm geschrieben hast, muss Du dieses auf den __Micro:Bit__ übertragen, was beim __Micro:Bit__ sehr einfach ist da dieser sich als USB-Speichergerät am Betreibssystem meldet. Im Makecode-Editor musst Du zunächst Dein Programm als Programmcode (Hex-Datei)herunterladen, indem Du auf den Knopf `Herunterladen` drückst. 
+
+<img src="./download.png" width="150px"/>
+
+Die heruntergeladene Datei kannst Du dann einfach auf den Datenträger mit der Bezeichnung `MICROBIT` kopieren. Eine LED auf der Rückseite des __Micro:Bit__ blinkt während des Aufpielen des Programms (_flashen_). Sobald das _flashen_ abgeschlossen ist, startet der __Micro:Bit__ neu und führt Dein Programm aus.
