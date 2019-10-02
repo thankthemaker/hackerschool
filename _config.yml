@@ -15,3 +15,5 @@ search_enabled: true
 aux_links:
   "More about ThankTheMaker":
     - "//www.thank-the-maker.org"
+
+theme: jekyll-theme-cayman
