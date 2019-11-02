@@ -1,11 +1,17 @@
 
 OLED.init(64, 128)
-OLED.loadingScreen()
+dht11_dht22.queryData(
+  DHTtype.DHT11,
+  DigitalPin.P13,
+  true,
+  false,
+  true
+)
 basic.forever(function () {
-    OLED.showStringWithNewLine("Temperatur:")
-    OLED.showNumberNoNewLine(Environment.temperature(DHT11Type.DHT11_temperature_C, DigitalPin.P13))
-    OLED.showStringWithNewLine("Luftfeucht.:")
-    OLED.showNumberNoNewLine(Environment.temperature(DHT11Type.DHT11_humidity, DigitalPin.P13))
+    OLED.writeStringNewLine("Temperatur:")
+    OLED.writeNum(dht11_dht22.readData(dataType.temperature))
+    OLED.writeStringNewLine("Luftfeucht.:")
+    OLED.writeNum(dht11_dht22.readData(dataType.humidity))
     basic.pause(2000)
     OLED.clear()
 })
