@@ -36,9 +36,7 @@ Erstelle mit den Blöcken `pausiere` aus dem `Grundlagen`-Block und dem Block `s
 
 So könnte Dein Programm aussehen.
 
-<!--img src="./screenshot.png" width="450px"/-->
-
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_DR1d5jHCTVpX" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+<img src="./screenshot.png" width="450px"/>
 
 ## Simulator
 
@@ -46,13 +44,9 @@ So könnte Dein Programm aussehen.
 
 ## Javascript-Code
 
-<!--
 {% highlight javascript %}
     {% include_relative main.js %}
 {% endhighlight %}
--->
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DR1d5jHCTVpX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 # Erweiterte Variante
 
@@ -72,9 +66,8 @@ Ersetze nun die Pausen Deines bisherigen Programms durch Aufrufe der beiden Funk
 
 So könnte die erweiterte Variante Deines Programms aussehen.
 
-<!--img src="./screenshot_advanced.png" width="550px"/-->
+<img src="./screenshot_advanced.png" width="550px"/>
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_LVoc8XH0YJRJ" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 ## Simulator
 
@@ -82,13 +75,13 @@ So könnte die erweiterte Variante Deines Programms aussehen.
 
 ## Javascript-Code
 
-<!--
 {% highlight javascript %}
     {% include_relative main_advanced.js %}
 {% endhighlight %}
--->
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_LVoc8XH0YJRJ" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+## Makecode Projekt
+
+https://makecode.microbit.org/#pub:_LVoc8XH0YJRJ
 
 ## Ampel
 

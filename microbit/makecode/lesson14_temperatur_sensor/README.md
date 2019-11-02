@@ -75,9 +75,7 @@ Es sollte nun alle __2__ Sekunden die aktuelle Temperatur und Luftfeuchtigkeit a
 
 So könnte Dein Programm aussehen.
 
-<!--img src="./screenshot.png" width="450px"/-->
-
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_0FYXf8FVtWTy" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+<img src="./screenshot.png" width="450px"/>
 
 <!--
 ## Simulator
@@ -87,10 +85,10 @@ So könnte Dein Programm aussehen.
 
 ## Javascript-Code
 
-<!--
 {% highlight javascript %}
     {% include_relative main.js %}
 {% endhighlight %}
--->
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0FYXf8FVtWTy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+## Makecode Projekt
+
+https://makecode.microbit.org/#pub:_0FYXf8FVtWTy
