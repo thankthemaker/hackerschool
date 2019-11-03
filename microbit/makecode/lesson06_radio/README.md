@@ -27,18 +27,16 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="350px"/>
 
-## Simulator
+## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_Te8bCcdfpAWc" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ## Javascript-Code
 
-<!--
 {% highlight javascript %}
     {% include_relative main.js %}
 {% endhighlight %}
--->
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_Te8bCcdfpAWc
+[Lektion 6 (Funkmodul) als Makecode-Projekt](https://makecode.microbit.org/#pub:_Te8bCcdfpAWc

@@ -44,7 +44,7 @@ So könnte Dein Programm aussehen.
 <img src="./screenshot.png" width="450px"/>
 
 <!--
-## Simulator
+## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_870KEKgcKFyc" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 -->
@@ -57,4 +57,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_870KEKgcKFyc
+[Lektion 12 (Sonar) als Makecode-Projekt](https://makecode.microbit.org/#pub:_870KEKgcKFyc)

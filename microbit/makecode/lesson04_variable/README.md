@@ -25,7 +25,7 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="250px"/>
 
-## Simulator
+## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_Ur6HyViaCY8E" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -37,4 +37,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_Ur6HyViaCY8E
+[Lektion 4 (Variablen) als Makecode-Projekt](https://makecode.microbit.org/#pub:_Ur6HyViaCY8E)

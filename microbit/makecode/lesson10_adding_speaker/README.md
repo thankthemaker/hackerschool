@@ -42,4 +42,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_gMVR0cTtb8Rx
+[Lektion 10 (Lautsprecher) als Makecode-Projekt](https://makecode.microbit.org/#pub:_gMVR0cTtb8Rx)

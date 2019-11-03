@@ -38,7 +38,7 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="450px"/>
 
-## Simulator
+## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_DR1d5jHCTVpX" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -68,8 +68,7 @@ So könnte die erweiterte Variante Deines Programms aussehen.
 
 <img src="./screenshot_advanced.png" width="550px"/>
 
-
-## Simulator
+## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_LVoc8XH0YJRJ" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -81,7 +80,7 @@ So könnte die erweiterte Variante Deines Programms aussehen.
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_LVoc8XH0YJRJ
+[Lektion 11 (Verkehrsampel) als Makecode-Projekt](https://makecode.microbit.org/#pub:_LVoc8XH0YJRJ)
 
 ## Ampel
 

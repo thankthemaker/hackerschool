@@ -16,4 +16,10 @@ Du hast hoffentlich bis hierher viel gelernt und einige interessante Programme g
 
 Es gibt viele tolle Projekte, aus diesem Grund sammeln wir hier Links zu anderen Seiten, die Dir als Inspiration dienen können.
 
+## Reine Micro:Bit Projekte
+
 https://makecode.microbit.org/projects/
+
+## Micro:Bit mit Maqueen Roboter
+
+[ThankTheMaker Hackerschool Maqueen Lektionen](https://thankthemaker.github.io/hackerschool/microbit/maqueen/)
