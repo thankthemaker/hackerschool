@@ -1,3 +1,12 @@
+---
+title: Maqueen Infrarot gesteuert
+parent: Microbit Maqueen Roboter
+grand_parent: Microbit
+has_children: false
+nav_order: 1
+permalink: /microbit/maqueen/lesson02_infrared_remote_control/
+---
+
 # Maqueen Infrarot gesteuert
 
 ## Infrarot Codes ermitteln
