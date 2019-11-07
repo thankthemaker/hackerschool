@@ -1,5 +1,5 @@
 ---
-title: Maqueen Lektion 1- LED und Piezo-Buzzer 
+title: Maqueen Lektion 1 - LED und Piezo-Buzzer 
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false
@@ -9,7 +9,7 @@ permalink: /microbit/maqueen/lesson01_led_and_buzzer/
 
 # Maqueen - LED und Piezo-Buzzer (Lautsprecher)
 
-Der Maqueen hat zwei einfache LEDs an seiner Front. Diese können über MakeCode einfach angesprochen werden. Zusätzlich verfügt der Maqueen Roboter über einen sehr einfachen Lautsprecher in Form eines Piezo-Buzzers.
+Der Maqueen hat zwei normale LEDs an seiner Front. Diese können über MakeCode einfach angesprochen werden. Zusätzlich verfügt der Maqueen Roboter über einen sehr einfachen Lautsprecher in Form eines Piezo-Buzzers.
 
 In dieser Lektion sollen die LEDs zum blinken gebracht und zusätzlich Töne ausgegeben werden.
 

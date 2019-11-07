@@ -9,11 +9,11 @@ permalink: /microbit/maqueen/lesson05_obstacle_avoiding/
 
 # Maqueen - Hindernissen ausweichen
 
-In dieser Lektion soll der Maqueen selbstständig Hinernisse erkennen und diesen ausweichen. Dazu nutzen wir den Ultraschallsensor um die Entfernung zum nächsten Objekt vor dem Roboter zu messen.
+In dieser Lektion soll der Maqueen selbstständig Hindernisse erkennen und diesen ausweichen. Dazu nutzen wir den Ultraschallsensor um die Entfernung zum nächsten Objekt vor dem Roboter zu messen.
 
 ## Anleitung
 
-Lies in einer Dauerschleife den Entfernungswert des Ultraschallsensors und prüfe ob diese ungleich `0` und kleiner 35 cm ist. Ist dies der Fall, ist entweder der Sensor nicht korrekt angebracht oder der Roboter ist näher als 35 cm an einem Objekt und muss ausweichen. Ansonsten kann der Roboter mit voller Geschwindigkeit geradeaus nach vorne fahren.
+Lies in einer Dauerschleife den Entfernungswert des Ultraschallsensors und prüfe ob dieser ungleich `0` und kleiner `35 cm` ist. Ist dies der Fall, ist entweder der Sensor nicht korrekt angebracht oder der Roboter ist näher als 35 cm an einem Objekt und muss ausweichen. Ansonsten kann der Roboter mit voller Geschwindigkeit geradeaus nach vorne fahren.
 
 Bevor der Roboter einem Hinderniss ausweichen soll, bestimme zunächst zufällig ob er sich nach rechts oder links dreht. Weise dazu einer neuen Variablen `rechtsDrehung` einen zufälligen `Wahr` oder `Falsch` Wert zu. Den entsprechenden `wähle zufälligen Wahr- oder Falsch-Wert`-Block findest Du bei den `Mathematik`-Blöcken.
 
@@ -28,7 +28,7 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="450px"/>
 
-<!-->
+<!--
 ## Ergebnis (Simulation)
 -->
 

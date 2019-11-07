@@ -9,7 +9,7 @@ permalink: /microbit/maqueen/lesson03_line_tracking/
 
 # Maqueen - Linien folgen
 
-In dieser Lektion kannst Du dem Maqueen Roboter beibringen Linien zu folgen. An der Unterseite des Roboters befinden sich zwei Infrarot-Sender und -empfänger, die dem Roboter ermöglichen dunkle und helle Flächen voneinander zu unterschreiden. Dunkle Flächen erkennt der Maqueen als Wert __`0`__. Helle Flächen erkennt der Roboter als Wert __`1`__. 
+In dieser Lektion kannst Du dem Maqueen Roboter beibringen Linien zu folgen. An der Unterseite des Roboters befinden sich zwei Infrarot-Sender und -Empfänger, die dem Roboter ermöglichen dunkle und helle Flächen voneinander zu unterscheiden. Dunkle Flächen erkennt der Maqueen als Wert __`0`__. Helle Flächen erkennt der Roboter als Wert __`1`__. 
 
 ## Anleitung
 
@@ -17,7 +17,7 @@ Starte zunächst damit Dir einen Kurs auszudenken und mit folgender Druckvorlage
 
 [Druckvorlagen für individuelle Linienfolger-Parcours](http://robotsquare.com/wp-content/uploads/2012/11/linefollowtiles.pdf)
 
-Nachdem Du den alle notwendigen Streckenabschnitte ausgedruckt hast, klebe diese mit Klebestreifen oder einem Klebestift entsprechend Deiner Vorlage aneinander. Hier ein einfaches Beispiel, wie Deine Strecke aussehen könnte.
+Nachdem Du alle notwendigen Streckenabschnitte ausgedruckt hast, klebe diese mit Klebestreifen oder einem Klebestift entsprechend Deiner Vorlage aneinander. Hier ein einfaches Beispiel, wie Deine Strecke aussehen könnte.
 
 <img src="./track.png" width="250px"/>
 
@@ -44,9 +44,9 @@ Der Maqueen-Roboter sollte nun schon in der Lage sein einer Linie zu folgen, all
 
 ___Zusatzaufgabe___
 
-Bei den ausgedrückten Streckebabschnitten findest Du auch Abschnitte mit Verzweigungen, Kreuzungen oder Unterbrechungen. Eine Unterbrechung in der Strecke führt z.B. in unserem einfachen Programm zum Anhalten des Roboters. Dieer muss dann von Hand auf einen anderen Abschnitt der Strecke gesetzt werden. 
+Bei den ausgedruckten Streckebabschnitten findest Du auch Abschnitte mit Verzweigungen, Kreuzungen oder Unterbrechungen. Eine Unterbrechung in der Strecke führt z.B., in unserem einfachen Programm, zum Anhalten des Roboters. Dieser muss dann von Hand auf einen anderen Abschnitt der Strecke gesetzt werden. 
 
-Beispiel für Ünterbrechung: 
+Beispiel für eine Unterbrechung: 
 
 <img src="./track_disruption.png" width="200px"/>
 
@@ -59,7 +59,7 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="450px"/>
 
-<!-->
+<!--    
 ## Ergebnis (Simulation)
 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_JxXi97fapFwf" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>

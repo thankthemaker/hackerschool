@@ -9,11 +9,13 @@ permalink: /microbit/maqueen/lesson04_neopixel/
 
 # Maqueen - Neopixel LEDs
 
+Neopixel sind kleine LEDs, die in allen Farben leuchten können. Der Maqueen-Roboter verfügt über vier solcher Neopixel an seiner Unterseite. In dieser Lektion sollen die Neopixel zum Leuchten gebracht werden.
+
 ## Anleitung
 
-Um Neopixel verwenden zu können, musst Du zunächst Deinen Makecode Editor um die Neopixel Bibliothek erweitern.
+Um die Neopixel verwenden zu können, musst Du zunächst Deinen Makecode Editor um die Neopixel Bibliothek erweitern.
 
-Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und suche anschließend nach der `Adafruit Neopixel` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
+Wähle dazu unter dem Block _Fortgeschritten_ den Punkt _Erweiterungen_ und suche anschließend nach der `Neopixel` Bibliothek. Füge diese dem Makecode Editor hinzu. Dadurch erhälst Du einen weiteren Block.
 
 <img src="./neopixel.png" width="150px"/>
 
@@ -35,6 +37,12 @@ So könnte Dein Programm aussehen.
 
 <img src="./screenshot.png" width="450px"/>
 
+<!--
+## Ergebnis (Simulation)
+
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_48s8eui0Y0d7" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+-->
+
 ## Javascript-Code
 
 {% highlight javascript %}
@@ -43,4 +51,4 @@ So könnte Dein Programm aussehen.
 
 ## MakeCode Projekt
 
-https://makecode.microbit.org/_9Ys0MV27Wc0f
+https://makecode.microbit.org/_48s8eui0Y0d7
