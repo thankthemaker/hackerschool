@@ -7,7 +7,7 @@ nav_order: 1
 permalink: /microbit/maqueen/lesson02_infrared_remote_control/
 ---
 
-# Maqueen Infrarot gesteuert
+# Maqueen - Infrarot gesteuert
 
 ## Infrarot Codes ermitteln
 
