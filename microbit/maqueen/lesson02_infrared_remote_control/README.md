@@ -1,9 +1,9 @@
 ---
-title: Maqueen Infrarot gesteuert
+title: Maqueen Lektion 2 - Infrarot gesteuert
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false
-nav_order: 1
+nav_order: 2
 permalink: /microbit/maqueen/lesson02_infrared_remote_control/
 ---
 

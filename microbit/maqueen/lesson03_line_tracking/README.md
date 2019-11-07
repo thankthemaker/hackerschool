@@ -1,9 +1,9 @@
 ---
-title: Maqueen Linien folgen 
+title: Maqueen Lektion 3 -  Linien folgen 
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false
-nav_order: 1
+nav_order: 3
 permalink: /microbit/maqueen/lesson03_line_tracking/
 ---
 

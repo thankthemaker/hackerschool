@@ -1,9 +1,9 @@
 ---
-title: Maqueen Hindernissen ausweichen
+title: Maqueen Lektion 5 - Hindernissen ausweichen
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false
-nav_order: 1
+nav_order: 5
 permalink: /microbit/maqueen/lesson05_obstacle_avoiding/
 ---
 

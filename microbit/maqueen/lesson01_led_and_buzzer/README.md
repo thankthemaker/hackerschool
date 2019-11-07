@@ -1,5 +1,5 @@
 ---
-title: Maqueen LED und Piezo-Buzzer 
+title: Maqueen Lektion 1- LED und Piezo-Buzzer 
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false

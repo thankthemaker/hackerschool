@@ -1,9 +1,9 @@
 ---
-title: Maqueen Neopixel
+title: Maqueen Lektion 4 -  Neopixel
 parent: Microbit Maqueen Roboter
 grand_parent: Microbit
 has_children: false
-nav_order: 1
+nav_order: 4
 permalink: /microbit/maqueen/lesson04_neopixel/
 ---
 
