@@ -15,8 +15,8 @@ In dieser Lektion sollen die LEDs zum blinken gebracht und zusätzlich Töne aus
 
 ## Anleitung
 
-Nutze aus dem Bereich der Maqueen-Blöcke den Block um eine LED ein- oder auszuschalten und schalte abwechselnd, mit jeweils 500ms Pause dazwischen, eine LED ein und gleichzeitig die andere aus.
-Spiele zusätzlich bei jedem Wechsel einen Ton. Verwende dazu aus den Musik-Blöcken den Block "spiele Note".
+Nutze aus dem Bereich der Maqueen-Blöcke den Block um eine LED ein- oder auszuschalten und schalte abwechselnd, mit jeweils __500ms__ Pause dazwischen, eine LED ein und gleichzeitig die andere aus.
+Spiele zusätzlich bei jedem Wechsel einen Ton. Verwende dazu aus den Musik-Blöcken den Block `spiele Note`.
 
 ## Blocks
 
