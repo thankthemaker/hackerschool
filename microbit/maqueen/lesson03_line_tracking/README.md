@@ -73,4 +73,4 @@ So könnte Dein Programm aussehen.
 
 ## MakeCode Projekt
 
-https://makecode.microbit.org/_JxXi97fapFwf
+[Maqueen Lektion 3 - Linien folgen](https://makecode.microbit.org/_JxXi97fapFwf)

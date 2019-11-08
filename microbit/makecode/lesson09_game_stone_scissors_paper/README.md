@@ -27,9 +27,9 @@ Erstelle nun eine elektronische Variante von dem bekannten Spiel _"Stein, Papier
 
 ## Anleitung
 
-Wähle zunächst aus dem `Eingabe`-Block de Block `wenn geschüttelt` und lösche innerhalb dieses Blocks zunächst das LED-Matrix Display. 
+Wähle zunächst aus dem `Eingabe`-Block den Block `wenn geschüttelt` und lösche innerhalb dieses Blocks zunächst das LED-Matrix Display. 
 
-Definiere nun eine  Variable `waffe` und ändere den Wert der Variable auf einen zufällige Wert zwischen __1__ und __3__. Nutze dazu den entsprechenden Block aus dem `Mathematik`-Block.
+Definiere nun eine  Variable `waffe` und ändere den Wert der Variablen auf einen zufälligen Wert zwischen __1__ und __3__. Nutze dazu den entsprechenden Block aus dem `Mathematik`-Block.
 
 Jetzt brauchst Du aus dem `Logik`-Block einen `wenn...dann`-Block den Du über das kleine Pluszeichen um zwei weitere `sonst...wenn`-Bedingungen erweiterst. Dieser sollte dann so aussehen:
 
@@ -65,7 +65,7 @@ So könnte Dein Programm aussehen.
 
 # Erweiterte Version
 
-Zwei Teilnehmerinnen haben eine erweiterte Version des Programms erstellt, bei dem das jeweilige gewählte Symbol auf den __Micro:Bit__ des anderen Spielers per Funk übertragen wird und dann per Smily angezeigt wird, wer die Runde gewonnen oder verloren hat. Diese Version ist so toll, dass sie hier  veröffentlicht werden muss :)
+Zwei Teilnehmerinnen haben eine erweiterte Version des Programms erstellt, bei dem das jeweilige gewählte Symbol auf den __Micro:Bit__ des anderen Spielers per Funk übertragen wird und dann per Smilie angezeigt wird, wer die Runde gewonnen oder verloren hat. Diese Version ist so toll, dass sie hier  veröffentlicht werden muss :)
 
 ## Blocks
 

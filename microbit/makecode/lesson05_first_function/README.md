@@ -17,7 +17,7 @@ In dieser Lektion wollen wir einen Countdown in einer Funktion implementieren, d
 
 Erstelle eine Funktion und rufe diese beim Druck auf Button `A` oder `B` auf.
 
-Die Funktion soll eine Variable `counter` definiern und mit dem initialen Wert __6__ belegen.
+Die Funktion soll eine Variable `counter` definieren und mit dem initialen Wert __6__ belegen.
 
 Innerhalb einer Schleife wird die Variable `counter` pro Schleifendurchlauf um die Zahl __1__ verringert.
 

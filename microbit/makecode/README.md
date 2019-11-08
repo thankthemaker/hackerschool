@@ -12,11 +12,11 @@ Bein MakeCode handelt es sich um einen Browser-basierter online Code-Editor von 
 
 ![MakeCode Editor](./makecode_editor.png "MakeCode Editor")
 
-Für unterstützte Plattformen, zu denen auch _Micro:Bit_ gehört, ist keine Installation von zusätzlicher Software notwendig. Des weiteren wird Code direkt in einem Simulator im Browser ausgeführt.
+Für unterstützte Plattformen, zu denen auch __Micro:Bit__ gehört, ist keine Installation von zusätzlicher Software notwendig. Des weiteren wird der Code direkt in einem Simulator im Browser ausgeführt.
 
 Weiterführende Informationen gibt es auf der Projektseite von [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode "Microsoft MakeCode") oder bei [Micro:Bit](https://makecode.microbit.org "Micro:Bit").
 
 ## MakeCode Beispiele
 
-Die MakeCode Beispiele bringen Dir Schritt für Schritt den MakeCode-Editor und die einzelnen Block-Elemente näher. Lerne mit jeder Lektion etwas neue Funktionen des __Micro:Bit__ kennen und entwickle zunehmend komplexere Programme. 
+Die MakeCode Beispiele bringen Dir Schritt für Schritt den MakeCode-Editor und die einzelnen Block-Elemente näher. Lerne mit jeder Lektion weitere Funktionen des __Micro:Bit__ kennen und entwickle zunehmend komplexere Programme. 
 

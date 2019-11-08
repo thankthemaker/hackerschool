@@ -36,4 +36,4 @@ So könnte Dein Programm aussehen.
 
 ## MakeCode Projekt
 
-https://makecode.microbit.org/_UtwMxDCpd6g2
+[Maqueen Lektion 1 - LED und Buzzer](https://makecode.microbit.org/_UtwMxDCpd6g2)

@@ -18,7 +18,7 @@ Beim Maqueen handelt es sich um einen kleinen Roboter der Firma DFRobot, der mit
 
 ![Maqueen Robot](./maqueen.jpeg "Maqueen Robot")
 
-Der Roboter erweitert den Micro:Bit um weitere Sensoren und elektrische Bauteile.
+Der Roboter erweitert den __Micro:Bit__ um weitere Sensoren und elektrische Bauteile.
 
 - 2 LEDs
 - 4 Neopixel RGB LEDs

@@ -9,7 +9,7 @@ permalink: /microbit/makecode/lesson01_blink_icon/
 
 # Lektion 1 - Blinkendes Icon
 
-Auf dem 5x5 LED-Matix-Display Deines Micro:Bit soll ein blinkendes Herz angezeigt werden. Dazu werden abwechselnd zwei unterschiedliche Icon angezeigt.
+Auf dem 5x5 LED-Matix-Display Deines __Micro:Bit__ soll ein blinkendes Herz angezeigt werden. Dazu werden abwechselnd zwei unterschiedliche Icons angezeigt.
 
 ## Anleitung
 

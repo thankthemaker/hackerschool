@@ -9,7 +9,7 @@ permalink: /microbit/makecode/lesson06_radio/
 
 # Lektion 6 - Daten per Funk übertragen
 
-Dein Micro:Bit verfügt über ein eingebautes Funkmodul, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
+Dein __Micro:Bit__ verfügt über ein eingebautes Funkmodul, mit dem Daten zwischen zwei oder mehreren __Micro:Bit__ übertragen werden können.
 
 Nutze das Funkmodul um den Text _"boom"_ von einem __Micro:Bit__ an einen anderen zu übertragen sobald Deinen __Micro:Bit__ schüttelst. Auf dem anderen __Micro:Bit__ soll daraufhin für etwa eine Sekunde das `Totenkopf`-Symbol angezeigt werden.
 
@@ -39,4 +39,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt
 
-[Lektion 6 (Funkmodul) als Makecode-Projekt](https://makecode.microbit.org/#pub:_Te8bCcdfpAWc
+[Lektion 6 (Funkmodul) als Makecode-Projekt](https://makecode.microbit.org/#pub:_Te8bCcdfpAWc)

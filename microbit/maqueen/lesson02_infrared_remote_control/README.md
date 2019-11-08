@@ -76,4 +76,4 @@ So könnte Dein Programm aussehen.
 
 ### MakeCode Projekt
 
-https://makecode.microbit.org/_WFTMKdAAxXat
+[Maqueen Lektion 2 - Infrarot gesteuert](https://makecode.microbit.org/_WFTMKdAAxXat)

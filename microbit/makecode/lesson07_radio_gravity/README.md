@@ -37,4 +37,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt 
 
-[Lektion 7 (Funkmodul) als Makecode-Projekt](https://makecode.microbit.org/#pub:_F8ha4KFf4aPD
+[Lektion 7 (Funkmodul) als Makecode-Projekt](https://makecode.microbit.org/#pub:_F8ha4KFf4aPD)
