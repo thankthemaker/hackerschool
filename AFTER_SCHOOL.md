@@ -14,7 +14,11 @@ Falls Du Dir noch einmal anschauen möchtest, womit wir uns in Deinem Kurs besch
 
 Alle Lektionen findest Du unter:
 
-[https://thankthemaker.github.io/hackerschool/microbit/](https://thankthemaker.github.io/hackerschool/microbit/)
+[Micro:Bit-Lektionen](https://thankthemaker.github.io/hackerschool/microbit/)
+
+[Micro:Bit mit Python Lektionen](https://thankthemaker.github.io/hackerschool/microbit/micropython/)
+
+[Maqueen-Roboter mit Micro:Bit](https://thankthemaker.github.io/hackerschool/microbit/maqueen/)
 
 ## Software
 
@@ -44,3 +48,8 @@ Falls Du Dir selbst einen __micro:bit__ kaufen oder schenken lassen möchtest, e
 
 Mit dem Complete-Starter-Kit lassen sich bereits die meisten Lektionen des Kurses noch einmal nach programmieren. Zudem enthält es noch einige weiter Lektionen.
 
+## Maqueen Roboter
+
+Der im Kurs verwendete Roboter heißt Maqueen und wird von der Firma DFRobot produziert. In Deutschland bekommst Du diesen z.B. bei Eckstein Elektronik.
+
+[Eckstein Elektronik](https://eckstein-shop.de/DFRobot-micro-Maqueen-micro-bit-Robot-Platform)

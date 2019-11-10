@@ -91,4 +91,4 @@ So könnte Dein Programm aussehen.
 
 ## Makecode Projekt
 
-https://makecode.microbit.org/#pub:_0FYXf8FVtWTy
+[Lektion 14 (Temperatursensor) als Makecode-Projekt](https://makecode.microbit.org/#pub:_0FYXf8FVtWTy)

@@ -18,7 +18,7 @@ Es gibt viele tolle Projekte, aus diesem Grund sammeln wir hier Links zu anderen
 
 ## Reine Micro:Bit Projekte
 
-https://makecode.microbit.org/projects/
+[https://makecode.microbit.org/projects/](https://makecode.microbit.org/projects/)
 
 ## Micro:Bit mit Maqueen Roboter
 
