@@ -41,20 +41,20 @@ Lade zunächst die Bibliothek für das SSD1306 Display auf Deinen __Micro:Bit__.
 
 Anschließend musst Du die Bibliothek importieren, damit Du im Code die Funktionen nutzen kannst.
 
-```js
+```python
 from ssd1306 import draw_screen, initialize, clear_oled
 from ssd1306_text import add_text
 ```
 
 Bevor wir das OLED im Programm nutzen können, muss erst noch das Display initialisiert werden. Dazu dient die Methode initialize.
 
-```js
+```python
 initialize()
-````
+```
 
 Jetzt kannst Du das Display ansprechen und z.B. Text darstellen. Dieser wird allerdings nicht direkt angezeigt. Die Bibliothek puffert den Text erst in einem Zwischenspeicher.
 
-```js
+```python
 add_text(2, 1, "Hello")
 add_text(2, 3, "World!")
 ```
@@ -63,7 +63,7 @@ Die  beiden Zeilen schreiben Text an den angegebenen Positionen auf das Display.
 
 Erst die Methode draw_screen() sorgt dafür, dass dieser Text tatsächlich auf dem OLED angezeigt wird.
 
-```js
+```python
 draw_screen()
 ```
 

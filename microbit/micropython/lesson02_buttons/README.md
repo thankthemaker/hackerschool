@@ -15,27 +15,27 @@ In dieser Lektion nutzen wir einen der beiden Knöpfe (Button) um ein Ereignis a
 
 Importiere zunächst die `machine`-Bibliothek um Zugriff auf die Funktionen des Microbit zu erhalten.
 
-```js
+```python
 from microbit import *
 ```
 
 Erstelle anschließend eine Endlosschleife indem Du eine `while`-Schleife erstellst und als Bedingung `True` einsetzt, also eine Wert der immer _wahr_ ist.
 
-```js
+```python
 while True:
     # hier kommt Dein Code in der Schleife hin
 ```
 
 Prüfe nun ob in dem aktuellen Schleifendurchlauf der Knopf `A` gedrückt wurde. Verwende dazu eine ìf`-Bedingung.
 
-```js
+```python
 if button_a.was_pressed():
     # hier kommt Dein Code hin, der beim Druck auf den Knopf ausgeführt wird
 ```
 
 Male dann in dem `if`-Block ein Symbol auf das LED-Matrix-Display, warte 2 Sekunden und lösche dann das Display wieder.
 
-```js
+```python
 display.show(Image.TRIANGLE)
 sleep(2000)
 display.clear()

@@ -14,7 +14,7 @@ In der erste Lektion gibst Du, wie oft beim Einstieg in die Programmierung oder 
 ## Anleitung
 
 
-```js
+```python
 from microbit import *
 ```
 
