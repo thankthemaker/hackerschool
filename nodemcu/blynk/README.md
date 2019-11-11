@@ -64,6 +64,6 @@ Erstelle einen Sketch, in dem Du über virtuelle Pins die drei Farbwerte für ro
 
 ___ToDo: Anleitung folgt in Kürze ...___
 
-{% highlight c++ %}
+{% highlight arduino %}
     {% include_relative blynk-nodemcu.ino %}
 {% endhighlight %}
